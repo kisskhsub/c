@@ -1,0 +1,3082 @@
+﻿1
+00:00:00,000 --> 00:00:01,000
+kisskh.moe
+
+2
+00:01:28,880 --> 00:01:31,966
+Aide! Aide!
+
+3
+00:01:33,469 --> 00:01:35,095
+- Loki, réveille-toi.
+- Rhéa.
+
+4
+00:01:36,458 --> 00:01:37,876
+Que faites-vous ici?
+
+5
+00:01:39,881 --> 00:01:40,881
+Quoi?
+
+6
+00:01:41,555 --> 00:01:43,015
+Je vérifie juste si je suis toujours en vie ?
+
+7
+00:02:10,100 --> 00:02:12,519
+Vous n'êtes pas obligé
+veille sur moi, Lorelei.
+
+8
+00:02:14,122 --> 00:02:15,540
+Je peux prendre soin de moi.
+
+9
+00:02:16,993 --> 00:02:20,538
+Cela fait des jours que je n'ai pas été libéré
+de l'hôpital.
+
+10
+00:02:21,537 --> 00:02:25,874
+Le médecin a dit que tu devrais
+éviter les activités intenses.
+
+11
+00:02:26,166 --> 00:02:30,212
+Alors je m'assure juste
+tu ne fais rien d’imprudent.
+
+12
+00:02:33,774 --> 00:02:37,152
+Même si je le voulais,
+Je n'ai pas assez d'énergie.
+
+13
+00:02:39,958 --> 00:02:43,712
+Mais j'ai remarqué un changement
+dans votre comportement.
+
+14
+00:02:45,323 --> 00:02:47,868
+Ai-je raté quelque chose
+pendant que je dormais à l'hôpital ?
+
+15
+00:02:48,388 --> 00:02:49,973
+Y a-t-il quelque chose que je devrais savoir ?
+
+16
+00:03:02,161 --> 00:03:03,287
+Qui es-tu?
+
+17
+00:03:03,597 --> 00:03:06,183
+Ce n'est pas prudent de sortir si tard
+par vous-même.
+
+18
+00:03:10,468 --> 00:03:11,468
+Hé!
+
+19
+00:03:12,427 --> 00:03:13,761
+Es-tu toujours avec nous ?
+
+20
+00:03:14,407 --> 00:03:15,909
+Oui. Désolé!
+
+21
+00:03:17,072 --> 00:03:20,242
+Vous savez, ne réfléchissez pas trop aux choses pour l’instant.
+
+22
+00:03:20,437 --> 00:03:24,150
+Nous parlerons de nos cas
+une fois que tu iras mieux.
+
+23
+00:03:25,184 --> 00:03:26,185
+Loki ?
+
+24
+00:03:27,315 --> 00:03:28,358
+Salut, Tita.
+
+25
+00:03:30,685 --> 00:03:33,396
+Comment vas-tu?
+Comment te sens-tu?
+
+26
+00:03:34,193 --> 00:03:35,193
+Bien.
+
+27
+00:03:36,320 --> 00:03:40,115
+je serais mieux
+si je n'étais pas surveillé 24h/24 et 7j/7.
+
+28
+00:03:43,677 --> 00:03:44,678
+Si tel est le cas,
+
+29
+00:03:45,637 --> 00:03:46,638
+voici ce que je vais faire.
+
+30
+00:03:47,164 --> 00:03:48,832
+Je vais verrouiller votre unité.
+
+31
+00:03:49,541 --> 00:03:51,501
+Faites ce que vous voulez.
+
+32
+00:03:52,211 --> 00:03:53,897
+De toute façon, tu as ton téléphone, n'est-ce pas ?
+
+33
+00:03:53,921 --> 00:03:57,506
+Si tu as besoin de quelque chose,
+appelez-nous. D'accord?
+
+34
+00:03:57,507 --> 00:03:59,110
+- Si vous avez besoin de quoi que ce soit, appelez-nous. D'accord?
+- Attendez.
+
+35
+00:03:59,134 --> 00:04:00,134
+Quoi?
+
+36
+00:04:08,623 --> 00:04:11,284
+<i>Ombres</i>
+
+37
+00:04:11,308 --> 00:04:14,019
+<i>dans le noir, ils rampent</i>
+
+38
+00:04:14,837 --> 00:04:18,633
+<i>Surveiller et vous barrer la route</i>
+
+39
+00:04:18,658 --> 00:04:22,204
+<i>Comme si la ligne ne pouvait pas être franchie</i>
+
+40
+00:04:23,030 --> 00:04:26,616
+<i>À chaque cri et à chaque tremblement</i>
+
+41
+00:04:26,617 --> 00:04:29,786
+<i>Ces murs restent le seul témoin</i>
+
+42
+00:04:29,787 --> 00:04:32,920
+<i>Chaque bruit est gravé ici</i>
+
+43
+00:04:32,944 --> 00:04:37,448
+<i>Comme du feu et des munitions pour votre mémoire</i>
+
+44
+00:04:38,752 --> 00:04:41,159
+<i>Tenez compte des avertissements</i>
+
+45
+00:04:41,999 --> 00:04:44,632
+<i>Les menaces prêtes à frapper</i>
+
+46
+00:04:45,461 --> 00:04:49,775
+<i>Pour ce monde</i>
+
+47
+00:04:49,799 --> 00:04:52,425
+<i>n'est pas ce que vous imaginiez</i>
+
+48
+00:04:52,426 --> 00:04:54,887
+<i>Tenez compte des avertissements</i>
+
+49
+00:04:55,888 --> 00:04:58,015
+<i>Ouvrez les yeux</i>
+
+50
+00:04:59,274 --> 00:05:02,819
+<i>Pour ce monde</i>
+
+51
+00:05:03,562 --> 00:05:06,349
+<i>n'est pas ce que vous imaginiez</i>
+
+52
+00:05:06,373 --> 00:05:11,211
+<i>Tenez compte des avertissements</i>
+
+53
+00:05:15,549 --> 00:05:17,092
+Bonjour.
+
+54
+00:05:18,150 --> 00:05:19,819
+Lorie ! Lori, attends !
+
+55
+00:05:19,844 --> 00:05:21,763
+Oh, Rosette. Comment vas-tu?
+
+56
+00:05:23,191 --> 00:05:24,942
+Au fait, comment va Loki ?
+
+57
+00:05:25,642 --> 00:05:27,184
+Est-ce qu'il va bien maintenant ?
+
+58
+00:05:27,185 --> 00:05:32,274
+Eh bien, il est encore en convalescence,
+donc cela pourrait prendre un certain temps avant qu'il ne revienne.
+
+59
+00:05:32,665 --> 00:05:34,125
+Oh, je vois.
+
+60
+00:05:35,097 --> 00:05:36,766
+Alors, qu'en est-il de votre club ?
+
+61
+00:05:37,048 --> 00:05:40,260
+Eh bien, pour l'instant,
+Je vais m'occuper du club.
+
+62
+00:05:41,976 --> 00:05:42,976
+Pourquoi?
+
+63
+00:05:43,414 --> 00:05:45,374
+Avez-vous un cas à nous proposer ?
+
+64
+00:05:46,182 --> 00:05:50,142
+Je fais. Mon ami est
+dérangé par quelqu'un.
+
+65
+00:05:50,898 --> 00:05:54,944
+Mais ça va.
+Peut-être quand votre partenaire reviendra.
+
+66
+00:05:58,675 --> 00:06:01,737
+- Sans vouloir t'offenser, d'accord ? Désolé.
+- Aucun pris.
+
+67
+00:06:01,747 --> 00:06:07,451
+Je veux dire, je sais
+Je ne suis pas aussi doué que Loki pour résoudre des affaires.
+
+68
+00:06:08,018 --> 00:06:09,977
+Ce n’est pas comme ça.
+
+69
+00:06:09,978 --> 00:06:11,997
+Vous n’aurez donc pas de difficulté.
+
+70
+00:06:14,039 --> 00:06:15,165
+D'accord.
+
+71
+00:06:22,099 --> 00:06:23,359
+Hé.
+
+72
+00:06:23,383 --> 00:06:27,011
+Notre système de comptage normal
+est appelé « base dix »
+
+73
+00:06:28,085 --> 00:06:33,049
+parce que nous avons exactement dix symboles
+travailler avec de zéro à neuf.
+
+74
+00:06:33,484 --> 00:06:37,696
+Mais une fois que nous n'aurons plus ces symboles,
+on recommence.
+
+75
+00:06:38,122 --> 00:06:40,501
+Nous ajoutons un autre chiffre à gauche.
+
+76
+00:06:40,525 --> 00:06:43,236
+C'est parce que nous avons dix doigts.
+
+77
+00:06:43,941 --> 00:06:46,235
+Et si nous en avions huit ?
+
+78
+00:06:47,193 --> 00:06:52,031
+Nous comptons en utilisant les chiffres de zéro à sept,
+puis on passe de 10h à 17h.
+
+79
+00:06:52,499 --> 00:06:57,545
+Oui, et ça s'appelle
+comptage octal ou base huit.
+
+80
+00:07:01,229 --> 00:07:03,690
+D'accord, la classe. Pause déjeuner.
+
+81
+00:07:04,514 --> 00:07:05,849
+A la prochaine séance.
+
+82
+00:07:08,001 --> 00:07:10,087
+<i>Pourrait-il vraiment être M ?</i>
+
+83
+00:07:10,885 --> 00:07:13,304
+<i>C'est un peu difficile à croire.</i>
+
+84
+00:07:14,041 --> 00:07:16,544
+<i>Il a l'air gentil et innocent.</i>
+
+85
+00:07:16,896 --> 00:07:20,942
+<i>D'ailleurs, s'il était impliqué</i>
+<i>dans l'enlèvement de Stein Alberts,</i>
+
+86
+00:07:21,532 --> 00:07:24,118
+<i>Pourquoi le signalerait-il au Q.E.D. Club ?</i>
+
+87
+00:07:24,777 --> 00:07:25,945
+Alors, on y va ?
+
+88
+00:07:26,613 --> 00:07:30,116
+- Allez, je meurs de faim. Tu n'as pas faim ?
+- Bien.
+
+89
+00:07:31,453 --> 00:07:33,429
+Lorie ! Lorie !
+
+90
+00:07:33,453 --> 00:07:37,586
+J'espère que tu n'as pas pris
+ce que j'ai dit plus tôt aussi personnellement.
+
+91
+00:07:37,610 --> 00:07:39,653
+Pas vraiment. C'est bon.
+
+92
+00:07:41,588 --> 00:07:42,881
+Et ça ?
+
+93
+00:07:43,405 --> 00:07:45,741
+Allons déjeuner au centre commercial. Mon régal.
+
+94
+00:07:46,098 --> 00:07:49,059
+Allez, s'il te plaît ?
+
+95
+00:07:49,084 --> 00:07:50,878
+- Hum...
+- J'ai faim.
+
+96
+00:07:50,902 --> 00:07:52,195
+Très bien, très bien.
+
+97
+00:07:53,408 --> 00:07:55,118
+- Vraiment?
+- Oh, attends.
+
+98
+00:07:56,635 --> 00:07:59,677
+<i>Je m'ennuie.</i>
+<i>Vérifiez les clients dans la salle du club.</i>
+
+99
+00:07:59,701 --> 00:08:01,703
+<i>Si intéressant, envoyez dès que possible.</i>
+
+100
+00:08:02,190 --> 00:08:05,609
+Désolé, Rosette. On dirait
+Je dois déjeuner dans la salle du club.
+
+101
+00:08:05,610 --> 00:08:08,946
+Loki m'a demandé de passer
+au cas où il y aurait de nouveaux cas.
+
+102
+00:08:08,970 --> 00:08:09,970
+Hein?
+
+103
+00:08:10,623 --> 00:08:15,192
+Pourquoi ne pas simplement dire que tu es dans la salle du club
+quand tu es vraiment au centre commercial ?
+
+104
+00:08:15,216 --> 00:08:17,712
+Bien sûr, vous méritez aussi une pause.
+
+105
+00:08:17,736 --> 00:08:21,366
+Mais et si quelqu'un
+vraiment besoin d'aide ?
+
+106
+00:08:21,390 --> 00:08:24,601
+Vous ne pourrez pas le résoudre
+sans Loki de toute façon, non ?
+
+107
+00:08:25,899 --> 00:08:29,175
+Je veux dire, il n'y a que
+vous deux dans le club.
+
+108
+00:08:29,199 --> 00:08:32,071
+Donc, ce sera difficile si
+tu es là seul, non ?
+
+109
+00:08:32,072 --> 00:08:33,823
+Cela rend donc les choses encore plus difficiles...
+
+110
+00:08:34,594 --> 00:08:38,261
+Vous savez quoi?
+Je vais bien manger seul.
+
+111
+00:08:38,286 --> 00:08:40,330
+Alors continuez.
+Dirigez-vous simplement vers le centre commercial.
+
+112
+00:08:43,523 --> 00:08:44,524
+Lorie ! Attendez!
+
+113
+00:08:52,624 --> 00:08:55,627
+<i>Est-ce que ça vous va d'être seul là-bas ?</i>
+
+114
+00:08:57,454 --> 00:08:59,331
+<i>Quelque chose d'intéressant encore ?</i>
+
+115
+00:09:00,624 --> 00:09:01,750
+<i>Rien pour l'instant.</i>
+
+116
+00:09:02,621 --> 00:09:03,622
+Entrez!
+
+117
+00:09:06,805 --> 00:09:09,933
+Salut! C'est Q.E.D. Club, non ?
+
+118
+00:09:10,832 --> 00:09:13,876
+Oui, c'est vrai.
+Comment puis-je t'aider?
+
+119
+00:09:14,564 --> 00:09:17,025
+Attendez, êtes-vous Lorelei Rios ?
+
+120
+00:09:17,365 --> 00:09:21,202
+Celui qui écrit tout
+blogs sur Q.E.D. cas.
+
+121
+00:09:22,672 --> 00:09:23,766
+Et...
+
+122
+00:09:23,790 --> 00:09:25,875
+est-ce l'endroit où
+chaque affaire commence ?
+
+123
+00:09:26,353 --> 00:09:27,954
+Oui, c'est vrai. C'est moi.
+
+124
+00:09:27,961 --> 00:09:33,800
+Et oui,
+c'est là que les étudiants viennent chercher de l'aide.
+
+125
+00:09:35,242 --> 00:09:37,886
+Désolé de ne pas me présenter
+tout de suite.
+
+126
+00:09:37,911 --> 00:09:39,453
+Au fait, je m'appelle Agatha Cortez.
+
+127
+00:09:39,454 --> 00:09:41,915
+L'éditeur littéraire du Clark Clarion.
+
+128
+00:09:41,939 --> 00:09:43,044
+Ravi de vous rencontrer.
+
+129
+00:09:43,057 --> 00:09:46,077
+Et je lis aussi vos blogs.
+
+130
+00:09:46,101 --> 00:09:47,337
+Vraiment?
+
+131
+00:09:47,361 --> 00:09:52,021
+Wow, c'est énorme pour un écrivain débutant
+aime que je sois félicité
+
+132
+00:09:52,029 --> 00:09:56,431
+par un éditeur de l'Université Clark
+publication officielle comme vous.
+
+133
+00:09:57,090 --> 00:09:58,550
+S'il vous plaît, asseyez-vous.
+
+134
+00:09:58,884 --> 00:10:03,740
+Désolé, c'est un peu compliqué ici.
+
+135
+00:10:03,764 --> 00:10:07,774
+Il s'est passé quelque chose la semaine dernière,
+donc nous n’avons toujours pas nettoyé.
+
+136
+00:10:08,769 --> 00:10:11,896
+C'est bon. Notre rédaction
+est encore plus compliqué que ça.
+
+137
+00:10:13,789 --> 00:10:18,043
+Au fait, notre rédacteur en chef
+est un grand fan de votre blog.
+
+138
+00:10:18,415 --> 00:10:19,587
+Vraiment?
+
+139
+00:10:19,611 --> 00:10:22,872
+Tout a commencé quand j'ai entendu Q.E.D.
+avait des blogs de cas.
+
+140
+00:10:22,896 --> 00:10:24,642
+J'ai lu vos blogs tout de suite.
+
+141
+00:10:24,666 --> 00:10:27,196
+Et je dois dire,
+vous avez un talent pour l'écriture.
+
+142
+00:10:28,086 --> 00:10:30,505
+Oh, wow, merci beaucoup ! Je veux dire…
+
+143
+00:10:30,507 --> 00:10:33,844
+c'est un énorme compliment
+venant d'un éditeur comme vous.
+
+144
+00:10:34,511 --> 00:10:39,951
+Et, vous savez, le Clarion sort
+un folio littéraire trimestriel.
+
+145
+00:10:39,975 --> 00:10:45,146
+Nous obtenons donc des nouvelles, des poèmes,
+et essais d'étudiants,
+
+146
+00:10:45,147 --> 00:10:47,399
+même les non-membres de Clarion.
+
+147
+00:10:47,733 --> 00:10:51,359
+Et je suis ici pour vous le faire savoir officiellement
+
+148
+00:10:51,367 --> 00:10:54,906
+que notre EIC souhaite mettre en avant
+certaines de vos œuvres.
+
+149
+00:10:55,327 --> 00:10:56,619
+Quoi? Vraiment?
+
+150
+00:10:56,620 --> 00:10:59,748
+Oui, parce que je crois
+vous avez le don de raconter des histoires.
+
+151
+00:11:01,205 --> 00:11:03,165
+Merci. Merci beaucoup.
+
+152
+00:11:03,172 --> 00:11:05,161
+Et ne vous inquiétez pas.
+
+153
+00:11:05,185 --> 00:11:08,522
+S'il y a un paiement
+pour les pièces que vous soumettez,
+
+154
+00:11:08,529 --> 00:11:10,629
+le Clarion est prêt à conclure un accord.
+
+155
+00:11:11,448 --> 00:11:13,241
+Notre EIC le veut vraiment,
+
+156
+00:11:13,242 --> 00:11:16,870
+donc nous ferons tout ce que nous pouvons
+pour que cela se réalise.
+
+157
+00:11:16,894 --> 00:11:19,288
+Eh bien, il n'est vraiment pas nécessaire de me payer.
+
+158
+00:11:19,289 --> 00:11:24,739
+Cela signifie beaucoup que mon blog publie
+pourrait en faire partie dans votre folio, alors...
+
+159
+00:11:25,194 --> 00:11:26,236
+C'est super!
+
+160
+00:11:26,587 --> 00:11:30,507
+Mais est-ce que ce serait bien si vos articles
+passer par le processus d'édition ?
+
+161
+00:11:30,843 --> 00:11:34,847
+Tu sais,
+l'espace d'impression est en quelque sorte limité.
+
+162
+00:11:35,222 --> 00:11:37,724
+Tant que le déroulement de l'histoire
+reste le même
+
+163
+00:11:37,725 --> 00:11:40,017
+et aucun détail important n'est perdu,
+
+164
+00:11:40,018 --> 00:11:41,895
+Ça me va.
+
+165
+00:11:42,344 --> 00:11:43,845
+D'accord! D'accord! D'accord! Merci!
+
+166
+00:11:44,162 --> 00:11:46,039
+Notre EIC sera certainement heureux.
+
+167
+00:11:46,911 --> 00:11:47,912
+Ah oui !
+
+168
+00:11:48,562 --> 00:11:52,670
+- Au fait, c'est ma carte.
+- Oh, parfait.
+
+169
+00:11:53,084 --> 00:11:55,461
+Désolé, je n'ai pas encore de carte.
+
+170
+00:11:55,462 --> 00:11:59,063
+C'est bon. Envoyez-moi simplement un message là-bas
+s'il y a des mises à jour.
+
+171
+00:11:59,087 --> 00:12:00,088
+D'accord.
+
+172
+00:12:03,043 --> 00:12:05,683
+D'ailleurs,
+comment va votre président ?
+
+173
+00:12:06,139 --> 00:12:10,477
+La nouvelle nous est parvenue
+il a été empoisonné.
+
+174
+00:12:11,311 --> 00:12:13,748
+Eh bien, il est encore en convalescence.
+
+175
+00:12:13,772 --> 00:12:17,191
+Le médecin lui a conseillé
+se reposer pour l'instant,
+
+176
+00:12:17,192 --> 00:12:18,905
+donc il ne pourra pas
+pour entrer encore.
+
+177
+00:12:19,637 --> 00:12:23,701
+La belladone qu'il a bu
+pourrait encore affecter son système.
+
+178
+00:12:25,286 --> 00:12:26,787
+Belladone, hein.
+
+179
+00:12:27,512 --> 00:12:29,639
+Ouais. Pourquoi?
+
+180
+00:12:29,663 --> 00:12:33,708
+Écrivez-vous également sur
+les cas ici sur le campus ?
+
+181
+00:12:34,490 --> 00:12:37,826
+En fait, nous voulons vraiment publier
+une série d'articles
+
+182
+00:12:37,827 --> 00:12:40,097
+concernant ces horribles incidents.
+
+183
+00:12:40,121 --> 00:12:42,205
+Mais l’administrateur ne le permettra pas.
+
+184
+00:12:42,206 --> 00:12:46,461
+Ils ont dit que c'était mauvais
+pour « l’image » de l’école.
+
+185
+00:12:46,971 --> 00:12:51,225
+Et ils ont dit que cela pourrait affecter
+la santé mentale des étudiants
+
+186
+00:12:51,226 --> 00:12:55,110
+si nous publions quelque chose,
+tu sais, déprimant.
+
+187
+00:12:55,117 --> 00:12:56,994
+Je vois. Je comprends.
+
+188
+00:12:57,986 --> 00:13:02,199
+En fait,
+Je voulais vous porter une affaire.
+
+189
+00:13:03,283 --> 00:13:04,618
+Puisque je suis déjà là,
+
+190
+00:13:04,623 --> 00:13:07,209
+Je pensais que j'en parlerais aussi,
+si ça va.
+
+191
+00:13:07,223 --> 00:13:09,642
+Bien sûr. Qu'est-ce que c'est?
+
+192
+00:13:16,416 --> 00:13:19,544
+Il s'agit d'Edward Allen Ponce.
+
+193
+00:13:20,101 --> 00:13:22,854
+Il est l'un de nos contributeurs
+pour la section littéraire.
+
+194
+00:13:23,526 --> 00:13:28,489
+Il adore écrire des histoires,
+spécifiquement des histoires mystérieuses.
+
+195
+00:13:29,127 --> 00:13:33,214
+Hier, il a été retrouvé mort
+dans son appartement.
+
+196
+00:13:34,975 --> 00:13:35,975
+Meurtre?
+
+197
+00:13:39,094 --> 00:13:42,221
+<i>Une bouteille de cyanure de potassium
+des capsules ont été trouvées</i>
+
+198
+00:13:42,222 --> 00:13:45,392
+<i>sur la table voisine</i>
+<i>où il a été retrouvé mort.</i>
+
+199
+00:13:47,644 --> 00:13:51,857
+<i>Son haleine sentait l'amande,</i>
+<i>et ses lèvres étaient devenues bleues</i>
+
+200
+00:13:52,316 --> 00:13:57,988
+<i>Ils ont également trouvé une note sur la table,</i>
+<i>ils ont donc jugé que c'était auto-infligé.</i>
+
+201
+00:14:01,436 --> 00:14:05,231
+<i>Si telle est la conclusion de la police,</i>
+<i>Qu'est-ce qui vous dérange ?</i>
+
+202
+00:14:05,692 --> 00:14:09,696
+<i>Sa note d'adieu
+était bizarrement écrit.</i>
+
+203
+00:14:10,135 --> 00:14:14,439
+<i>J'ai édité suffisamment de ses histoires</i>
+<i>connaître son style d'écriture,</i>
+
+204
+00:14:14,463 --> 00:14:18,424
+<i>et autant que je sache,</i>
+<i>il y a quelque chose qui ne va pas.</i>
+
+205
+00:14:19,128 --> 00:14:21,767
+<i>Cette confession écrite n'est pas un canular.</i>
+
+206
+00:14:22,890 --> 00:14:25,726
+<i>Le suicide rachètera ma culpabilité de tueur.</i>
+
+207
+00:14:26,908 --> 00:14:31,704
+<i>Pardonnez-moi, Nicole, car j'ai pris</i>
+<i>sans remords la vie de cet écrivain.</i>
+
+208
+00:14:32,523 --> 00:14:34,123
+<i>Le manuscrit est inconnu</i>
+
+209
+00:14:34,130 --> 00:14:36,459
+<i>Ce que j'ai volé révèle la vérité.</i>
+
+210
+00:14:37,418 --> 00:14:39,336
+<i>Conservez la copie comme preuve.</i>
+
+211
+00:14:39,350 --> 00:14:41,436
+Est-ce son écriture ?
+
+212
+00:14:42,395 --> 00:14:47,525
+Sur la base de la note et de ses cahiers,
+l'écriture manuscrite correspond.
+
+213
+00:14:48,234 --> 00:14:50,027
+Mais tu as raison, Agathe.
+
+214
+00:14:50,028 --> 00:14:52,391
+Il y a vraiment quelque chose de bizarre
+avec cette note.
+
+215
+00:14:53,114 --> 00:14:56,700
+Oui, et si la police a raison,
+
+216
+00:14:56,701 --> 00:15:01,456
+Edward a tué un écrivain
+et a volé leur manuscrit.
+
+217
+00:15:06,920 --> 00:15:13,259
+"À l'insu" était le titre provisoire,
+tout comme ce qui est écrit là-bas.
+
+218
+00:15:14,594 --> 00:15:15,720
+Je vois.
+
+219
+00:15:16,846 --> 00:15:20,558
+Attends, qui est Nicole,
+et qui est l’écrivain qu’il aurait tué ?
+
+220
+00:15:21,100 --> 00:15:23,227
+Nicole était la petite amie d'Edward.
+
+221
+00:15:23,519 --> 00:15:26,759
+Mais nous ne savons toujours pas
+à quel écrivain ils font référence.
+
+222
+00:15:27,523 --> 00:15:29,720
+Peut-être que c'était quelqu'un qu'ils connaissaient,
+ou un de leurs amis.
+
+223
+00:15:31,564 --> 00:15:33,099
+Pourriez-vous me transmettre ceci ?
+
+224
+00:15:41,537 --> 00:15:43,884
+<i>La police a jugé que c'était auto-infligé,</i>
+
+225
+00:15:44,415 --> 00:15:47,363
+<i>mais selon le client,</i>
+<i>et sur la base de ma déduction</i>
+
+226
+00:15:47,961 --> 00:15:50,241
+<i>il y a quelque chose qui ne va pas</i>
+<i>à propos de la note finale du sujet.</i>
+
+227
+00:15:50,768 --> 00:15:51,784
+<i>Qu'en pensez-vous ?</i>
+
+228
+00:15:55,405 --> 00:15:56,656
+Excusez-moi un instant.
+
+229
+00:15:58,346 --> 00:15:59,490
+Bonjour?
+
+230
+00:15:59,514 --> 00:16:00,807
+<i>C'est trop facile.</i>
+
+231
+00:16:01,182 --> 00:16:02,183
+Trop facile !
+
+232
+00:16:02,665 --> 00:16:05,548
+Un seul regard suffit
+à moi de résoudre l'énigme.
+
+233
+00:16:06,976 --> 00:16:10,332
+La victime ne s'est pas suicidée,
+mais j'y ai été contraint.
+
+234
+00:16:11,120 --> 00:16:12,120
+Encore?
+
+235
+00:16:12,455 --> 00:16:17,098
+Donc si c'est comme tous les autres cas,
+alors cela signifie qu'il est connecté à…
+
+236
+00:16:17,122 --> 00:16:19,020
+Si tu penses
+que Moriarty est impliqué,
+
+237
+00:16:20,202 --> 00:16:21,536
+J'en doute fortement.
+
+238
+00:16:22,474 --> 00:16:23,641
+Alors qu'est-ce que c'est ?
+
+239
+00:16:23,642 --> 00:16:26,235
+Pouvez-vous arrêter avec le
+suspense et dis-moi
+
+240
+00:16:26,240 --> 00:16:28,159
+qu'est-il réellement arrivé à Edward ?
+
+241
+00:16:28,751 --> 00:16:29,919
+Hum…
+
+242
+00:16:30,734 --> 00:16:31,897
+Non!
+
+243
+00:16:31,921 --> 00:16:33,089
+Que veux-tu dire par « non » ?
+
+244
+00:16:33,403 --> 00:16:34,529
+<i>Je ne vous le dis pas.</i>
+
+245
+00:16:34,927 --> 00:16:36,011
+Pourquoi le ferais-je ?
+
+246
+00:16:36,651 --> 00:16:40,675
+<i>En premier lieu, vous avez laissé notre logeuse</i>
+<i>enfermez-moi à l'intérieur de cette unité</i>
+
+247
+00:16:40,678 --> 00:16:42,347
+<i>et tu ne l'as même pas fait
+prenez la peine de m'aider.</i>
+
+248
+00:16:42,372 --> 00:16:43,456
+<i>Deuxièmement...</i>
+
+249
+00:16:43,481 --> 00:16:46,150
+tu peux gérer cette affaire
+même sans mon aide.
+
+250
+00:16:47,171 --> 00:16:49,422
+<i>Nous avons travaillé
+ensemble pendant des semaines.</i>
+
+251
+00:16:49,423 --> 00:16:52,260
+<i>Vous avez sûrement décroché</i>
+<i>certaines de mes méthodes maintenant.</i>
+
+252
+00:16:52,789 --> 00:16:54,848
+je suis sûr que
+vous pouvez résoudre ce cas
+
+253
+00:16:55,746 --> 00:16:56,974
+au nom de notre club.
+
+254
+00:17:01,169 --> 00:17:02,337
+Pourquoi tu ne réponds pas ?
+
+255
+00:17:03,022 --> 00:17:06,692
+As-tu perdu ta voix
+ou vous êtes-vous évanoui à cause de la pression ?
+
+256
+00:17:06,696 --> 00:17:09,438
+Mon Dieu! Tu peux juste me le dire déjà ?
+
+257
+00:17:09,463 --> 00:17:10,463
+Je me sens sous pression.
+
+258
+00:17:10,468 --> 00:17:13,866
+Et si je ne peux pas résoudre cette affaire
+et embarrasser notre club ?
+
+259
+00:17:15,101 --> 00:17:17,228
+<i>Et notre client vient du Clarion.</i>
+
+260
+00:17:17,687 --> 00:17:20,081
+J'ai peur de la décevoir
+
+261
+00:17:20,087 --> 00:17:22,464
+parce que je ne suis pas aussi bon
+comme elle s'attend à ce que je le sois.
+
+262
+00:17:23,012 --> 00:17:24,013
+Toujours non.
+
+263
+00:17:24,525 --> 00:17:27,737
+<i>Mais laissez-moi vous donner un indice</i>
+<i>avant de commencer à résoudre l'affaire.</i>
+
+264
+00:17:28,065 --> 00:17:29,732
+Avez-vous déjà passé un examen
+
+265
+00:17:29,733 --> 00:17:32,027
+où tu es à un siège l'un de l'autre
+de ton camarade de classe ?
+
+266
+00:17:33,824 --> 00:17:34,825
+Oui.
+
+267
+00:17:35,698 --> 00:17:37,074
+Qu’est-ce que ça veut dire ?
+
+268
+00:17:37,784 --> 00:17:38,784
+Bonne chance!
+
+269
+00:17:38,785 --> 00:17:40,017
+<i>Hein ? Attendez !</i>
+
+270
+00:17:47,240 --> 00:17:48,783
+De quel genre d'indice s'agit-il ?
+
+271
+00:17:51,817 --> 00:17:54,027
+Agathe, j'ai besoin de ton aide.
+
+272
+00:17:55,400 --> 00:17:57,694
+Pensez-vous que Nicole viendra ?
+
+273
+00:17:58,320 --> 00:18:01,615
+Elle a dit oui à ton texto,
+donc je suppose que nous attendons juste.
+
+274
+00:18:04,829 --> 00:18:07,206
+Ah, ici. Elle est là. Nicole.
+
+275
+00:18:07,231 --> 00:18:11,213
+Bonjour! Nicole, je te présente Lorelei.
+Lorelei, je te présente Nicole.
+
+276
+00:18:11,238 --> 00:18:12,574
+- Salut!
+- Salut! Ravi de vous rencontrer!
+
+277
+00:18:12,585 --> 00:18:14,211
+Comment puis-je t'aider?
+
+278
+00:18:14,898 --> 00:18:17,388
+En fait, je viens du Q.E.D. Club.
+
+279
+00:18:17,391 --> 00:18:21,436
+Je voulais juste te demander quelques choses
+à propos d'Edward Allen.
+
+280
+00:18:22,451 --> 00:18:24,537
+Est-ce à propos de sa mort ?
+
+281
+00:18:28,885 --> 00:18:31,930
+Nous avons l’impression qu’il ne s’est pas suicidé.
+
+282
+00:18:32,573 --> 00:18:34,700
+Eh bien, pas volontairement.
+
+283
+00:18:36,017 --> 00:18:40,563
+Alors tu dis à quelqu'un
+l'a forcé à prendre du cyanure ?
+
+284
+00:18:41,265 --> 00:18:42,529
+Cela ressemble à ça.
+
+285
+00:18:42,553 --> 00:18:45,556
+C'est pourquoi nous étions
+en espérant votre aide
+
+286
+00:18:45,580 --> 00:18:50,252
+pour découvrir ce qui s'est réellement passé
+et qui aurait pu le faire.
+
+287
+00:18:51,336 --> 00:18:55,319
+Dans la note, il mentionne un écrivain
+il aurait tué
+
+288
+00:18:55,343 --> 00:18:57,303
+et a volé un manuscrit.
+
+289
+00:18:58,176 --> 00:19:01,179
+Savez-vous
+à qui faisait-il référence ?
+
+290
+00:19:02,868 --> 00:19:05,246
+Peut-être Arthur Dominguez.
+
+291
+00:19:05,726 --> 00:19:07,060
+Comme Ed...
+
+292
+00:19:08,520 --> 00:19:10,355
+L'art était aussi un écrivain de romans policiers.
+
+293
+00:19:10,939 --> 00:19:13,734
+Mais il y a deux semaines,
+il s'est cogné la tête.
+
+294
+00:19:13,998 --> 00:19:15,994
+Ils ont dit qu'il était tombé accidentellement
+en bas des escaliers
+
+295
+00:19:16,018 --> 00:19:18,437
+au dortoir où il
+et Ed étaient ensemble.
+
+296
+00:19:19,592 --> 00:19:25,014
+Connaissez-vous également le manuscrit
+Edward mentionné dans la note ?
+
+297
+00:19:28,406 --> 00:19:32,494
+Tout ce qu'il m'a dit quand nous
+étaient toujours ensemble, c'était
+
+298
+00:19:32,880 --> 00:19:35,692
+il écrivait un roman
+
+299
+00:19:35,716 --> 00:19:37,801
+il avait prévu de soumettre
+à une maison d'édition.
+
+300
+00:19:38,344 --> 00:19:41,492
+En écrivant? Est-ce que vous plaisantez?
+
+301
+00:19:42,181 --> 00:19:43,765
+Peut-être que ce que tu veux dire, c'est
+
+302
+00:19:43,766 --> 00:19:48,771
+il révisait le manuscrit
+il a volé pour se l'approprier.
+
+303
+00:19:49,462 --> 00:19:50,463
+N'est-ce pas vrai ?
+
+304
+00:19:50,657 --> 00:19:53,668
+S'il ne volait pas
+L'écriture réelle d'Arthur,
+
+305
+00:19:53,692 --> 00:19:56,173
+il volait ses idées.
+
+306
+00:19:56,197 --> 00:19:59,615
+Beaucoup de pièces Clarion
+ont été crédités à Edward,
+
+307
+00:19:59,619 --> 00:20:02,414
+mais l'Art était celui
+qui les a réellement écrits.
+
+308
+00:20:03,399 --> 00:20:05,558
+Heureusement que sa conscience
+je l'ai finalement atteint.
+
+309
+00:20:05,583 --> 00:20:09,129
+Honnêtement, ce n'est toujours pas suffisant
+pour tout ce qu'il a fait.
+
+310
+00:20:16,052 --> 00:20:17,721
+Veuillez l'excuser.
+
+311
+00:20:18,555 --> 00:20:20,807
+Michael et Art étaient les meilleurs amis.
+
+312
+00:20:21,630 --> 00:20:27,719
+Et Michael soupçonne fortement Edward
+avait quelque chose à voir avec l’accident d’Art.
+
+313
+00:20:28,903 --> 00:20:31,364
+Très bien, je devrais y aller aussi.
+J'ai encore cours.
+
+314
+00:20:31,791 --> 00:20:34,210
+Puis-je vous contacter directement ?
+
+315
+00:20:34,681 --> 00:20:37,600
+Au cas où il y aurait des mises à jour sur le cas.
+
+316
+00:20:38,709 --> 00:20:39,710
+Bien sûr.
+
+317
+00:20:42,125 --> 00:20:44,377
+- Ici. Merci.
+- Merci.
+
+318
+00:20:47,659 --> 00:20:49,744
+- Agathe…
+- Oui, Lori ?
+
+319
+00:20:49,769 --> 00:20:50,924
+J'ai une forte intuition
+
+320
+00:20:50,925 --> 00:20:53,928
+Michael avait quelque chose à faire
+avec la mort d'Edward.
+
+321
+00:20:55,984 --> 00:20:57,068
+Vous le pensez ?
+
+322
+00:20:57,932 --> 00:21:02,312
+Pour l'instant, c'est le seul que je peux voir
+avec un motif pour le faire.
+
+323
+00:21:04,189 --> 00:21:08,777
+Je vais le suivre et découvrir la vérité.
+
+324
+00:21:17,911 --> 00:21:21,623
+Comment puis-je comprendre le
+message caché dans cette note ?
+
+325
+00:21:23,273 --> 00:21:24,691
+Bonjour, classe.
+
+326
+00:21:25,225 --> 00:21:27,536
+Nous aurons un examen surprise pour aujourd’hui.
+
+327
+00:21:28,006 --> 00:21:31,801
+Je veux juste voir ce que tu as appris
+de ce que je vous ai appris la dernière séance.
+
+328
+00:21:33,986 --> 00:21:38,532
+Oh? De quoi es-tu si inquiet ?
+Nous avons déjà abordé le sujet.
+
+329
+00:21:38,937 --> 00:21:40,563
+Et c'est un cours d'histoire.
+
+330
+00:21:40,564 --> 00:21:45,110
+Tu sais que tu dois apprendre du passé
+pour affronter l’avenir, non ?
+
+331
+00:21:45,444 --> 00:21:50,657
+Alors va chercher tes papiers
+et éloignez vos chaises les unes des autres.
+
+332
+00:21:50,682 --> 00:21:53,393
+L'espace entre vous
+devraient être espacés d'un siège.
+
+333
+00:21:57,508 --> 00:21:59,221
+<i>Avez-vous déjà passé un examen</i>
+
+334
+00:21:59,252 --> 00:22:01,495
+<i>où vous êtes à un siège l'un de l'autre</i>
+<i>de votre camarade de classe ?</i>
+
+335
+00:22:01,519 --> 00:22:04,166
+<i>L'espace entre vous</i>
+<i>devrait être espacé d'un siège.</i>
+
+336
+00:22:09,283 --> 00:22:10,743
+Un siège à part !
+
+337
+00:22:11,363 --> 00:22:12,405
+C'est ça!
+
+338
+00:22:30,701 --> 00:22:33,204
+Loreleï ! Avez-vous décodé la note d'Edward ?
+
+339
+00:22:33,577 --> 00:22:34,577
+Oui.
+
+340
+00:22:35,269 --> 00:22:38,292
+Mais je veux qu'on attende Nicole d'abord.
+
+341
+00:22:38,316 --> 00:22:41,528
+Je veux qu'elle entende
+ce que son petit ami essayait de dire.
+
+342
+00:22:50,508 --> 00:22:52,718
+Pourquoi m'as-tu rappelé, Lorelei ?
+
+343
+00:22:53,171 --> 00:22:56,132
+Avez-vous une mise à jour
+sur le cas d'Edward ?
+
+344
+00:22:56,157 --> 00:22:57,158
+Oui!
+
+345
+00:22:57,742 --> 00:23:00,055
+J'ai décodé la note de ton petit ami.
+
+346
+00:23:00,079 --> 00:23:04,091
+Alors tu peux arrêter de faire semblant maintenant
+et rendez-vous.
+
+347
+00:23:06,251 --> 00:23:07,669
+Attends, qu'est-ce que tu veux dire ?
+
+348
+00:23:08,041 --> 00:23:10,752
+Nicole est responsable
+pour la mort d'Edward ?
+
+349
+00:23:11,639 --> 00:23:13,869
+Puisque Edward aimait les mystères,
+
+350
+00:23:13,893 --> 00:23:17,607
+J'ai réalisé que c'était son plan depuis le début,
+
+351
+00:23:17,631 --> 00:23:21,224
+cacher le message dans son poème.
+
+352
+00:23:22,043 --> 00:23:26,405
+Celui qui l'a forcé à boire le poison
+surveillait définitivement.
+
+353
+00:23:30,381 --> 00:23:33,170
+J'ai essayé de retirer
+certains des mots ici.
+
+354
+00:23:33,194 --> 00:23:37,082
+J'ai essayé différentes combinaisons,
+mais celui-ci convient le mieux.
+
+355
+00:23:38,616 --> 00:23:40,493
+Exactement deux mots d’écart.
+
+356
+00:23:40,926 --> 00:23:45,046
+Si tu enlèves les deux mots
+entre chaque mot-clé,
+
+357
+00:23:45,060 --> 00:23:46,687
+c'est ce qu'il lit.
+
+358
+00:23:47,688 --> 00:23:50,273
+"Ce n'est pas un suicide.
+
+359
+00:23:50,274 --> 00:23:57,239
+Mon assassin, Nicole, a pris ce manuscrit
+qui révèle les preuves.
+
+360
+00:23:58,515 --> 00:24:03,191
+Je l'ai seulement fait pour venger Art
+pour ce qu'Ed lui a fait.
+
+361
+00:24:04,095 --> 00:24:05,096
+Quoi?
+
+362
+00:24:05,480 --> 00:24:07,274
+Comment as-tu pu faire ça
+à ton copain ?
+
+363
+00:24:07,968 --> 00:24:09,136
+La vérité est...
+
+364
+00:24:10,210 --> 00:24:12,045
+Art et moi avons grandi ensemble.
+
+365
+00:24:16,008 --> 00:24:19,360
+On dirait que notre ami se sent déprimé.
+Ça va ?
+
+366
+00:24:19,384 --> 00:24:21,764
+Hé, Art. Êtes-vous d'accord?
+
+367
+00:24:21,788 --> 00:24:24,305
+Cette histoire est la mienne ! J'en suis sûr !
+
+368
+00:24:24,329 --> 00:24:28,750
+Mais Ed, il l'a soumis au Clarion
+et a dit qu'il l'avait écrit.
+
+369
+00:24:29,379 --> 00:24:32,345
+Si tu as écrit ceci,
+comment en a-t-il une copie ?
+
+370
+00:24:32,358 --> 00:24:35,211
+Je ne sais pas. Nous étions colocataires.
+
+371
+00:24:35,242 --> 00:24:39,037
+Alors peut-être qu'il se faufilait dans ma chambre
+et je vérifie mon cahier,
+
+372
+00:24:39,061 --> 00:24:41,935
+où j'ai écrit toutes mes histoires.
+
+373
+00:24:42,547 --> 00:24:44,466
+Lui en as-tu parlé ?
+
+374
+00:24:44,490 --> 00:24:46,878
+Ouais! Mais il a continué à le nier !
+
+375
+00:24:46,902 --> 00:24:50,381
+Il a dit que c'était peut-être juste une coïncidence
+que nous avions la même idée.
+
+376
+00:24:50,405 --> 00:24:53,282
+Ce n’était même pas la première fois.
+C'est arrivé plusieurs fois auparavant.
+
+377
+00:24:53,283 --> 00:24:54,660
+Alors ce type est un vrai con.
+
+378
+00:24:54,684 --> 00:24:57,079
+Tu veux le frapper quand on le voit ?
+
+379
+00:24:57,103 --> 00:24:59,915
+Non, tu finiras par finir
+ressemblant au méchant.
+
+380
+00:25:02,084 --> 00:25:03,418
+J'ai une idée.
+
+381
+00:25:04,993 --> 00:25:09,759
+Puisque peu de gens savent
+nous sommes amis tous les trois,
+
+382
+00:25:11,571 --> 00:25:13,657
+et si je flirte avec Ed ?
+
+383
+00:25:14,531 --> 00:25:15,782
+Droite?
+
+384
+00:25:15,806 --> 00:25:21,066
+Puis une fois qu'il tombe amoureux de moi,
+Je vais lui faire avouer ce qu'il a fait.
+
+385
+00:25:21,090 --> 00:25:25,386
+Une fois que nous aurons les preuves,
+c’est à ce moment-là que nous exposons tout.
+
+386
+00:25:26,247 --> 00:25:27,374
+Cela fonctionnera.
+
+387
+00:25:27,415 --> 00:25:29,793
+- Droite? Et toi?
+- C'est bien.
+
+388
+00:25:31,127 --> 00:25:32,337
+Ça a l'air bien.
+
+389
+00:25:33,087 --> 00:25:37,109
+J'ai déjà fait avouer Ed
+à plagier votre travail.
+
+390
+00:25:37,133 --> 00:25:40,803
+J'ai ses aveux sur mon téléphone.
+Écoutez ça.
+
+391
+00:25:41,512 --> 00:25:43,723
+<i>Mon colocataire était tellement idiot.</i>
+
+392
+00:25:44,181 --> 00:25:46,517
+Il écrit ses histoires dans son carnet.
+
+393
+00:25:46,944 --> 00:25:48,946
+Et il le laisse tomber
+traînant dans la pièce.
+
+394
+00:25:50,102 --> 00:25:54,000
+Bien sûr, je le prendrais en photo,
+alors révisez-le moi-même.
+
+395
+00:25:54,024 --> 00:25:55,442
+<i>Pour donner l'impression que c'était le mien.</i>
+
+396
+00:25:56,026 --> 00:25:58,946
+Bébé, pourquoi as-tu fait ça ?
+
+397
+00:25:59,512 --> 00:26:01,305
+Alors je pourrais être la star, bien sûr !
+
+398
+00:26:01,699 --> 00:26:03,770
+L'art ne méritait pas
+être célèbre de toute façon.
+
+399
+00:26:04,399 --> 00:26:07,110
+<i>C'est juste différent</i>
+<i>quand votre nom est dans le Clarion.</i>
+
+400
+00:26:07,536 --> 00:26:08,871
+C’est vraiment un perdant.
+
+401
+00:26:10,457 --> 00:26:14,508
+J'ai aussi les photos de tes histoires
+depuis son téléphone.
+
+402
+00:26:14,532 --> 00:26:15,825
+Là! Regarder!
+
+403
+00:26:16,113 --> 00:26:18,174
+Alors, est-ce qu'on le divulgue ?
+
+404
+00:26:18,186 --> 00:26:20,968
+Non! Je vais l'affronter moi-même !
+
+405
+00:26:21,601 --> 00:26:23,141
+La prochaine chose que nous avons su,
+
+406
+00:26:23,165 --> 00:26:25,835
+L'art lui avait déjà cogné la tête
+dans leur dortoir.
+
+407
+00:26:26,492 --> 00:26:29,704
+Nous n'avions aucune preuve qu'Edward l'avait fait,
+
+408
+00:26:30,672 --> 00:26:36,136
+donc nous ne pouvions rien faire
+quand il a fait croire à un accident.
+
+409
+00:26:37,762 --> 00:26:39,597
+Je n’en peux plus !
+
+410
+00:26:40,140 --> 00:26:43,143
+Je ne supporte pas ce qu’il a fait à Art.
+
+411
+00:26:44,269 --> 00:26:46,020
+C'est mon ami d'enfance.
+
+412
+00:26:46,688 --> 00:26:48,940
+Je sais à quel point il est une bonne personne.
+
+413
+00:26:49,596 --> 00:26:53,933
+Alors j'ai pris les choses en main
+pour le venger.
+
+414
+00:26:54,540 --> 00:26:58,117
+<i>Bien sûr, je le prendrais en photo,</i>
+<i>alors révisez-le moi-même.</i>
+
+415
+00:26:58,569 --> 00:27:00,218
+<i>Pour donner l'impression que c'était le mien.</i>
+
+416
+00:27:00,242 --> 00:27:05,582
+Je vais sortir cet enregistrement
+si tu ne fais pas ce que je dis.
+
+417
+00:27:06,667 --> 00:27:09,461
+Je sais que tu ne peux pas
+Gère la honte, Ed.
+
+418
+00:27:10,296 --> 00:27:11,648
+S’il vous plaît, ne le faites pas.
+
+419
+00:27:11,672 --> 00:27:15,718
+Parlons-en, Nicole.
+Nicole, s'il te plaît ? Nicole.
+
+420
+00:27:15,720 --> 00:27:18,448
+Qu'est-ce que ton père va dire
+quand il le découvre
+
+421
+00:27:18,472 --> 00:27:20,806
+- des choses honteuses que tu fais ?
+- S'il te plaît.
+
+422
+00:27:21,733 --> 00:27:23,578
+Nous pouvons en parler.
+
+423
+00:27:23,602 --> 00:27:26,146
+- Il n'est pas candidat aux élections municipales ?
+-Nicole.
+
+424
+00:27:26,171 --> 00:27:30,091
+Que se passe-t-il lorsque les gens découvrent
+son fils est un plagiaire ?
+
+425
+00:27:32,002 --> 00:27:36,298
+Ce que vous devez faire maintenant
+c'est écrire votre note d'adieu.
+
+426
+00:27:36,323 --> 00:27:37,658
+Ne le faites pas. S'il te plaît?
+
+427
+00:27:37,683 --> 00:27:38,809
+Écrire!
+
+428
+00:27:39,659 --> 00:27:40,827
+Écrire!
+
+429
+00:27:53,579 --> 00:27:55,539
+Comment as-tu pu faire ça à Art ?
+
+430
+00:27:56,296 --> 00:27:59,299
+C'était une si bonne personne,
+et tu lui as fait ça ?
+
+431
+00:27:59,847 --> 00:28:03,100
+Tu sais ce qui devrait t'arriver ?
+Tu devrais disparaître.
+
+432
+00:28:04,541 --> 00:28:05,792
+Bois ça.
+
+433
+00:28:07,560 --> 00:28:08,769
+Buvez-le !
+
+434
+00:28:09,790 --> 00:28:10,999
+S'il te plaît.
+
+435
+00:28:24,006 --> 00:28:26,133
+J'étais consumé par la colère.
+
+436
+00:28:27,586 --> 00:28:32,758
+La seule chose qui me préoccupe
+vengeait l'Art.
+
+437
+00:28:33,290 --> 00:28:37,377
+Parce que je ne peux pas accepter que ce soit
+tout cela lui arriverait.
+
+438
+00:28:37,759 --> 00:28:40,938
+L'art était trop gentil et innocent
+
+439
+00:28:40,962 --> 00:28:43,297
+être traité comme ça par n'importe qui.
+
+440
+00:28:44,694 --> 00:28:47,697
+Nicole ! Tu n'aurais pas dû faire ça !
+
+441
+00:28:48,228 --> 00:28:50,606
+Tu aurais dû laisser la police s'en occuper !
+
+442
+00:28:51,101 --> 00:28:52,811
+Je suis désolé...
+
+443
+00:28:54,234 --> 00:28:55,903
+Je suis désolé.
+
+444
+00:28:55,906 --> 00:28:59,362
+- Désolé, pardonne-moi. Qu'est-ce que c'est ça?
+- Là! Arrêtez-la !
+
+445
+00:28:59,364 --> 00:29:01,908
+- Qu'est-ce que c'est ça? Attendez!
+- Arrêtez-la.
+
+446
+00:29:01,909 --> 00:29:03,910
+- Viens avec nous.
+- Je ne veux pas.
+
+447
+00:29:03,911 --> 00:29:07,663
+- Attendez! Michel !
+- Viens. Allons dehors.
+
+448
+00:29:07,664 --> 00:29:11,376
+- Michel !
+- Merci. Laissez-la-nous.
+
+449
+00:29:13,045 --> 00:29:15,255
+Merci beaucoup pour votre aide, Lorelei.
+
+450
+00:29:16,325 --> 00:29:21,038
+J'ai tellement de chance d'avoir pu être témoin personnellement
+comment Q.E.D. résout les cas.
+
+451
+00:29:21,813 --> 00:29:23,064
+Aucun problème.
+
+452
+00:29:29,706 --> 00:29:30,791
+Loki !
+
+453
+00:29:32,951 --> 00:29:35,370
+Hé. Je t'ai apporté à manger.
+
+454
+00:29:38,528 --> 00:29:39,529
+Merci.
+
+455
+00:29:39,905 --> 00:29:43,991
+Alors, tu n'es pas fier de moi
+pour résoudre ma première affaire par moi-même ?
+
+456
+00:29:45,953 --> 00:29:47,663
+Techniquement, je t'ai quand même aidé.
+
+457
+00:29:48,538 --> 00:29:50,540
+Je t'ai donné un indice, non ?
+
+458
+00:29:50,794 --> 00:29:54,214
+Alors, tu n’étais toujours pas seul ?
+
+459
+00:29:55,045 --> 00:29:56,630
+Mangez déjà.
+
+460
+00:29:57,005 --> 00:29:59,174
+Laisse-moi finir de réparer
+ce billet de blog en premier.
+
+461
+00:30:08,558 --> 00:30:09,559
+Oh non!
+
+462
+00:30:10,185 --> 00:30:11,895
+Le compte est suspendu.
+
+463
+00:30:13,872 --> 00:30:15,499
+Qu’est-ce qui aurait pu arriver ?
+
+464
+00:30:17,192 --> 00:30:19,569
+Cela signifie beaucoup de monde
+a signalé le compte.
+
+465
+00:30:20,529 --> 00:30:22,614
+Faites simplement appel et attendez 30 jours.
+
+466
+00:30:23,240 --> 00:30:24,865
+Vous n'avez rien violé
+
+467
+00:30:24,866 --> 00:30:27,869
+donc je suis assez confiant
+qu'ils lèveront la suspension.
+
+468
+00:30:29,329 --> 00:30:30,329
+Pour l'instant...
+
+469
+00:30:31,408 --> 00:30:33,952
+Je veux que tu l'écrives
+dans un lecteur sécurisé.
+
+470
+00:30:47,363 --> 00:30:51,325
+Es-tu sûr que tu vas vraiment bien, Loki ?
+Pouvez-vous le gérer ?
+
+471
+00:30:52,267 --> 00:30:53,267
+Ouais.
+
+472
+00:30:54,016 --> 00:30:55,309
+Je n'ai jamais été mieux.
+
+473
+00:30:55,687 --> 00:30:56,688
+Bien.
+
+474
+00:30:57,105 --> 00:30:59,392
+Parce qu'il y a quelque chose
+Je veux discuter de
+
+475
+00:30:59,417 --> 00:31:02,497
+que je ne pouvais pas évoquer
+pendant que tu étais en convalescence.
+
+476
+00:31:03,102 --> 00:31:04,186
+Qu'est-ce que c'est?
+
+477
+00:31:06,544 --> 00:31:11,942
+Te souviens-tu quand John Bautista
+j'ai failli me dissoudre ?
+
+478
+00:31:14,037 --> 00:31:17,874
+Quand je l'ai entendu appeler
+et parlez à Moriarty.
+
+479
+00:31:19,093 --> 00:31:21,439
+Quand il a appelé ce numéro,
+
+480
+00:31:21,463 --> 00:31:26,676
+Je l'ai entendu jouer un air familier pour enfants.
+
+481
+00:31:27,761 --> 00:31:31,222
+Et cette chanson
+était "Marie avait un petit agneau".
+
+482
+00:31:33,850 --> 00:31:35,352
+"Marie avait un petit agneau" ?
+
+483
+00:31:37,265 --> 00:31:38,485
+Es-tu sûr?
+
+484
+00:31:38,492 --> 00:31:39,825
+Je suis sûr à cent pour cent.
+
+485
+00:31:40,411 --> 00:31:43,664
+Eh bien, je ne serai pas surpris
+si c'était vrai.
+
+486
+00:31:44,986 --> 00:31:48,198
+Moriarty aime probablement
+de comptines.
+
+487
+00:31:49,653 --> 00:31:52,656
+Tout d'abord, "Twinkle Twinkle Little Star".
+
+488
+00:31:53,246 --> 00:31:55,791
+Maintenant, « Marie avait un petit agneau. »
+
+489
+00:31:56,328 --> 00:31:59,164
+Quelle est la prochaine étape ?
+« Le pont de Londres s'effondre » ?
+
+490
+00:31:59,764 --> 00:32:02,016
+C'est à peu près la même chose, Loki.
+
+491
+00:32:02,955 --> 00:32:05,791
+Bref, revenons à mon histoire.
+
+492
+00:32:06,825 --> 00:32:11,747
+Pendant que tu étais à l'hôpital,
+J'ai entendu un homme siffler.
+
+493
+00:32:12,427 --> 00:32:13,887
+C'était le même air.
+
+494
+00:32:24,069 --> 00:32:26,202
+<i>Quand je l'ai confronté,</i>
+
+495
+00:32:26,210 --> 00:32:29,593
+<i>il a dit qu'il l'avait seulement entendu</i>
+<i>à partir du clavier de quelqu'un</i>
+
+496
+00:32:29,607 --> 00:32:32,110
+<i>à l'hôpital
+à cette époque aussi.</i>
+
+497
+00:32:34,545 --> 00:32:35,922
+Est-ce que je vous connais, mademoiselle ?
+
+498
+00:32:36,698 --> 00:32:42,736
+Donc je suis sûr qu'un des hommes de Moriarty
+était à l'hôpital.
+
+499
+00:32:43,169 --> 00:32:45,148
+Loki, ça pourrait être la clé
+
+500
+00:32:45,172 --> 00:32:47,894
+pour que nous puissions vraiment le découvrir
+qui est vraiment Moriarty.
+
+501
+00:32:48,592 --> 00:32:51,345
+Tu aurais dû me le dire
+à propos de ce truc de clavier plus tôt.
+
+502
+00:32:52,304 --> 00:32:54,930
+J'aurais pu me concentrer
+toute mon attention
+
+503
+00:32:54,931 --> 00:32:57,100
+pour déterminer quels sont les chiffres.
+
+504
+00:32:58,791 --> 00:32:59,959
+Même si nous connaissons la mélodie,
+
+505
+00:33:01,278 --> 00:33:05,901
+la liste des possibles
+les configurations de numéros sont infinies.
+
+506
+00:33:05,925 --> 00:33:09,012
+Cela aurait pu être l'un des
+vos visiteurs qui l'ont composé.
+
+507
+00:33:10,042 --> 00:33:12,471
+Le premier était le professeur Morayta.
+
+508
+00:33:13,576 --> 00:33:15,578
+Ensuite, Bastien Montréal.
+
+509
+00:33:16,398 --> 00:33:20,819
+Et enfin, votre frère, Luthor.
+
+510
+00:33:22,988 --> 00:33:24,114
+Mais attendez.
+
+511
+00:33:25,170 --> 00:33:27,172
+Il y a une autre possibilité.
+
+512
+00:33:28,452 --> 00:33:33,123
+Cette nuit-là, un homme avec une sucette
+me suivait.
+
+513
+00:33:34,235 --> 00:33:35,528
+Je ne le connais pas.
+
+514
+00:33:36,335 --> 00:33:37,961
+Je ne connais pas son nom.
+
+515
+00:33:38,269 --> 00:33:42,169
+Mais si je voyais son visage,
+Je le reconnaîtrais certainement.
+
+516
+00:33:42,762 --> 00:33:47,058
+Qui que ce soit, nous devons être prudents
+sur les personnes qui nous approchent.
+
+517
+00:33:49,223 --> 00:33:51,725
+Nous ne savons pas quoi
+Le plan de Moriarty.
+
+518
+00:33:53,548 --> 00:33:58,588
+Tout ce que nous pouvons faire pour l'instant
+C'est pratiquer une vigilance constante.
+
+519
+00:33:59,108 --> 00:34:02,128
+Alors n'oubliez pas d'apporter
+votre stylo paralysant à tout moment.
+
+520
+00:34:02,152 --> 00:34:06,406
+Nous ne le saurons jamais
+quand lui ou ses serviteurs frapperont.
+
+521
+00:34:11,650 --> 00:34:14,986
+Salut. Désolé, je vous dérange ?
+
+522
+00:34:14,987 --> 00:34:16,613
+Nous sommes au milieu
+de quelque chose d'important.
+
+523
+00:34:16,614 --> 00:34:19,634
+- Pouvez-vous s'il vous plaît arrêter...
+- Rosette, entre.
+
+524
+00:34:19,658 --> 00:34:22,830
+Je suis avec l'ami dont je t'ai parlé.
+
+525
+00:34:23,412 --> 00:34:25,664
+Bien sûr. C'est très bien. S'il vous plaît, entrez.
+
+526
+00:34:26,415 --> 00:34:27,415
+Allez.
+
+527
+00:35:02,883 --> 00:35:03,883
+Salut.
+
+528
+00:35:06,766 --> 00:35:08,309
+Rhéa ?
+
+529
+00:35:15,378 --> 00:35:20,994
+Est-ce qu'il va bien ?
+Pourquoi semble-t-il faire du tampon ?
+
+530
+00:35:21,992 --> 00:35:25,706
+Désolé, quel était celui de ton ami
+encore un nom ?
+
+531
+00:35:25,710 --> 00:35:28,477
+Je m'appelle Jamie Santiago.
+Heureux de vous rencontrer.
+
+532
+00:35:28,483 --> 00:35:30,798
+Ravi de vous rencontrer. Je m'appelle Lorelei Rios.
+
+533
+00:35:30,799 --> 00:35:33,965
+Et voici notre président de club,
+Loki Méndez.
+
+534
+00:35:35,550 --> 00:35:39,709
+Jamie est l'un des meilleurs
+actrices de théâtre à l'école.
+
+535
+00:35:39,733 --> 00:35:42,406
+C'est pourquoi elle a toujours
+obtient les rôles principaux.
+
+536
+00:35:42,411 --> 00:35:46,198
+Elle est populaire sur le campus,
+mais peut-être que tu ne la connais pas
+
+537
+00:35:46,198 --> 00:35:49,951
+puisque vous ne regardez pas nos pièces de théâtre.
+
+538
+00:35:55,179 --> 00:35:57,013
+Très bien, je vais y aller.
+
+539
+00:35:57,014 --> 00:36:00,643
+Lori, s'il te plaît, aide mon ami, d'accord ?
+Merci.
+
+540
+00:36:00,668 --> 00:36:01,794
+Nous avons ceci.
+
+541
+00:36:02,901 --> 00:36:03,902
+Au revoir.
+
+542
+00:36:04,482 --> 00:36:07,999
+Jamie, s'il te plaît, n'hésite pas
+pour nous faire part de votre problème.
+
+543
+00:36:08,024 --> 00:36:10,585
+Nous sommes là pour écouter. N'est-ce pas, Loki ?
+
+544
+00:36:12,128 --> 00:36:16,049
+Plus tôt, Rosie a dit que j'étais une actrice de théâtre.
+
+545
+00:36:16,643 --> 00:36:20,595
+J'ai l'habitude de rencontrer des fans
+après chaque production que je dirige.
+
+546
+00:36:20,610 --> 00:36:22,320
+Cela n'a jamais vraiment été un problème.
+
+547
+00:36:23,496 --> 00:36:26,833
+Ce qui me fait peur, ce sont les
+ceux qui se cachent dans le noir
+
+548
+00:36:27,375 --> 00:36:29,287
+et en restant anonyme.
+
+549
+00:36:29,301 --> 00:36:31,688
+Tu veux dire des harceleurs ?
+
+550
+00:36:31,694 --> 00:36:34,627
+Ouais. Une fois, j'ai discuté avec quelqu'un.
+
+551
+00:36:34,651 --> 00:36:40,323
+Le nom ne m'était pas familier,
+et cela ressemblait à un faux compte.
+
+552
+00:36:40,991 --> 00:36:44,831
+Au début,
+il essayait même de me lier d'amitié.
+
+553
+00:36:44,855 --> 00:36:46,098
+Puis les jours suivants,
+
+554
+00:36:46,122 --> 00:36:49,751
+il a soudainement commencé à envoyer
+des photos de moi lorsque j'étais sur scène.
+
+555
+00:36:50,335 --> 00:36:54,130
+Je veux savoir qui il est
+parce que je veux qu'il arrête.
+
+556
+00:36:54,589 --> 00:36:57,268
+Avez-vous des copies des photos
+tu parlais ?
+
+557
+00:37:02,971 --> 00:37:03,971
+Loki.
+
+558
+00:37:04,889 --> 00:37:05,889
+Hé!
+
+559
+00:37:07,403 --> 00:37:09,603
+Quand ces photos ont-elles commencé ?
+
+560
+00:37:10,269 --> 00:37:11,492
+La semaine dernière.
+
+561
+00:37:11,523 --> 00:37:14,944
+Le premier a été envoyé mardi
+à 19h56.
+
+562
+00:37:15,653 --> 00:37:18,614
+Puis le suivant
+a été envoyé mercredi à 8h34.
+
+563
+00:37:20,184 --> 00:37:23,700
+Et le dernier
+c'était hier soir à 21h45.
+
+564
+00:37:24,270 --> 00:37:27,245
+Est-ce que ça vient de vos répétitions
+pour la pièce à l'auditorium ?
+
+565
+00:37:29,721 --> 00:37:31,138
+Plus probablement qu’improbable,
+
+566
+00:37:31,139 --> 00:37:34,327
+c'est l'un de vos
+Membres du Club du Répertoire.
+
+567
+00:37:34,351 --> 00:37:37,145
+Basé sur les angles de ces photos.
+
+568
+00:37:38,131 --> 00:37:39,799
+Pourquoi fait-il ça ?
+
+569
+00:37:40,732 --> 00:37:44,152
+Eh bien, peut-être qu'il t'aime bien.
+
+570
+00:37:44,903 --> 00:37:50,951
+Il est trop timide pour te dire ce qu'il ressent,
+donc il le fait plutôt via le chat.
+
+571
+00:37:51,365 --> 00:37:53,158
+Ça commence à devenir effrayant.
+
+572
+00:37:53,183 --> 00:37:56,644
+Je veux le faire arrêter,
+mais je ne sais pas à qui affronter.
+
+573
+00:37:57,228 --> 00:38:00,231
+Ce genre de comportement de la part d'un fan
+est définitivement inquiétant.
+
+574
+00:38:00,482 --> 00:38:04,944
+Il faut donc redoubler de prudence,
+surtout quand tu es seul.
+
+575
+00:38:05,779 --> 00:38:08,615
+Nous aurons besoin de vos enregistrements de chat
+avec le gars mystérieux.
+
+576
+00:38:12,160 --> 00:38:15,955
+Nous devons d'abord comprendre le coupable
+avant de rassembler nos suspects.
+
+577
+00:38:16,731 --> 00:38:19,775
+Nous demanderons également
+pour une liste de tous les membres de votre club.
+
+578
+00:38:20,930 --> 00:38:25,184
+Ensuite, nous le réduisons
+aux suspects possibles.
+
+579
+00:38:25,518 --> 00:38:27,727
+Nous n'avons pas de liste officielle des membres,
+
+580
+00:38:27,728 --> 00:38:31,023
+mais je me souviens des noms
+des 42 membres.
+
+581
+00:38:31,043 --> 00:38:32,544
+Je vais juste les écrire.
+
+582
+00:38:33,269 --> 00:38:36,313
+Avez-vous mémorisé les noms des 42 membres ?
+
+583
+00:38:36,323 --> 00:38:40,469
+Oui! Avec noms complets et âges.
+
+584
+00:38:40,493 --> 00:38:42,244
+J'ai une mémoire très rémanente,
+
+585
+00:38:42,245 --> 00:38:45,582
+donc je mémorise mes répliques pour une pièce de théâtre
+n'a jamais été difficile pour moi.
+
+586
+00:38:46,291 --> 00:38:49,127
+Je me souviens rapidement des choses.
+
+587
+00:38:51,087 --> 00:38:54,382
+Je vais juste l'écrire
+et envoyez-le immédiatement.
+
+588
+00:39:04,893 --> 00:39:07,771
+Pourquoi as-tu l'air ainsi
+frappé par Jamie ?
+
+589
+00:39:08,944 --> 00:39:09,944
+Hé!
+
+590
+00:39:10,315 --> 00:39:13,360
+Je t'ai parlé,
+et tu ne me réponds même pas.
+
+591
+00:39:15,494 --> 00:39:16,787
+Attends, qu'est-ce que c'est ?
+
+592
+00:39:20,367 --> 00:39:23,327
+Je pensais que tu faisais
+quelque chose d'important.
+
+593
+00:39:23,328 --> 00:39:25,021
+Vous étiez juste en train de naviguer.
+
+594
+00:39:27,290 --> 00:39:30,368
+Ceci est pertinent pour notre cas.
+Juste pour que tu le saches.
+
+595
+00:39:30,910 --> 00:39:35,164
+je vérifie juste les profils
+de tous ceux qui figurent sur la liste de Jamie.
+
+596
+00:39:35,789 --> 00:39:38,041
+je lis et j'étudie
+comment ils construisent
+
+597
+00:39:38,042 --> 00:39:42,379
+leur égocentrique,
+sinon complètement ridicule, publie Facenote.
+
+598
+00:39:43,547 --> 00:39:46,759
+ça me donne mal à la tête,
+mais je dois le faire.
+
+599
+00:39:47,218 --> 00:39:49,887
+Quel est le lien avec notre cas ?
+
+600
+00:39:53,057 --> 00:39:54,849
+Tu ne sais pas
+que l'on peut reconnaître quelqu'un
+
+601
+00:39:54,850 --> 00:39:56,435
+à travers le poing de leur écrivain ?
+
+602
+00:39:56,810 --> 00:39:58,312
+Pas votre poing littéral.
+
+603
+00:39:58,979 --> 00:40:00,272
+Mais la façon dont tu écris.
+
+604
+00:40:00,773 --> 00:40:03,691
+Vous pouvez les identifier
+avec leur choix de mots
+
+605
+00:40:03,692 --> 00:40:05,277
+et la construction des phrases.
+
+606
+00:40:08,697 --> 00:40:10,699
+Vérifiez le message de Monsieur Y à Jamie.
+
+607
+00:40:11,700 --> 00:40:15,538
+<i>J'ai remarqué que tu as de belles courbes.</i>
+<i>Vous entraînez-vous tous les jours ?</i>
+
+608
+00:40:16,426 --> 00:40:18,887
+<i>Je t'ai vu porter</i>
+<i>rouge à lèvres fraise aujourd'hui.</i>
+
+609
+00:40:19,625 --> 00:40:22,586
+<i>Je ne peux m'empêcher de me demander</i>
+<i>quel goût ont ces lèvres.</i>
+
+610
+00:40:23,254 --> 00:40:27,049
+<i>Puis-je toucher vos jambes ?</i>
+<i>Je suppose qu'ils sont vraiment fluides.</i>
+
+611
+00:40:27,522 --> 00:40:28,522
+Effrayant.
+
+612
+00:40:29,607 --> 00:40:30,608
+Certainement.
+
+613
+00:40:31,609 --> 00:40:37,031
+Et surtout, un pseudonyme très nul.
+
+614
+00:40:37,935 --> 00:40:39,728
+Si nous n'arrêtons pas cela,
+
+615
+00:40:40,605 --> 00:40:42,231
+ça pourrait tourner à l'obsession,
+
+616
+00:40:42,256 --> 00:40:44,133
+et il pourrait faire quelque chose de pire à Jamie.
+
+617
+00:40:44,634 --> 00:40:46,135
+C'est donc ce que nous allons faire.
+
+618
+00:40:46,427 --> 00:40:49,222
+Divisons la liste
+que Jamie nous a envoyé.
+
+619
+00:40:49,514 --> 00:40:53,017
+Et nous vérifierons tous les deux
+les profils de ces personnes.
+
+620
+00:40:53,226 --> 00:40:56,270
+Je ferai les 21 premiers,
+et tu prends le suivant.
+
+621
+00:40:56,979 --> 00:40:59,565
+Alors retrouvons-nous plus tard
+avec nos découvertes.
+
+622
+00:41:00,816 --> 00:41:01,816
+J'ai compris.
+
+623
+00:41:02,951 --> 00:41:03,951
+Bien.
+
+624
+00:41:08,374 --> 00:41:13,421
+Ok, classe, souviens-toi,
+vous faites vos propres notes.
+
+625
+00:41:14,128 --> 00:41:18,507
+Alors soumettez simplement ce dont nous avons discuté, d'accord ?
+
+626
+00:41:18,966 --> 00:41:20,217
+D'accord, la classe.
+
+627
+00:41:20,770 --> 00:41:24,482
+N'oubliez pas les sorties dont vous disposez
+à soumettre d'ici la fin du mois.
+
+628
+00:41:25,176 --> 00:41:28,387
+Rappelez-vous, vous êtes de jeunes adultes maintenant,
+alors soyez responsable.
+
+629
+00:41:28,722 --> 00:41:30,682
+Vos notes dépendent de vous, d'accord ?
+
+630
+00:41:31,739 --> 00:41:36,869
+Et si vous avez des inquiétudes,
+viens à moi. Il est facile de parler avec moi.
+
+631
+00:41:37,369 --> 00:41:38,369
+Mais là encore...
+
+632
+00:41:39,426 --> 00:41:44,627
+Et n'oubliez pas, vos tâches de performance
+doit être fait à temps.
+
+633
+00:41:44,632 --> 00:41:48,011
+Donc s'il n'y a plus de soucis,
+classe renvoyée !
+
+634
+00:41:49,160 --> 00:41:50,703
+<i>Wesley Nuñez.</i>
+
+635
+00:41:52,021 --> 00:41:53,439
+<i>Raymond Torres.</i>
+
+636
+00:41:55,597 --> 00:41:57,057
+Alvin Mendoza.
+
+637
+00:41:58,052 --> 00:42:01,681
+Et Stein Alberts.
+
+638
+00:42:03,261 --> 00:42:05,429
+Stein Alberts? Le nom est familier.
+
+639
+00:42:06,352 --> 00:42:07,395
+Qui est-il déjà ?
+
+640
+00:42:07,854 --> 00:42:09,456
+Le prodige des mathématiques.
+
+641
+00:42:09,480 --> 00:42:11,733
+Celui que nous avons sauvé dans une de nos valises.
+
+642
+00:42:13,818 --> 00:42:15,028
+Je m'en souviens maintenant.
+
+643
+00:42:15,396 --> 00:42:19,334
+Mais je ne peux pas croire
+c’est un suspect possible.
+
+644
+00:42:19,365 --> 00:42:21,576
+Alors qu'est-ce que tu es
+tu vas faire avec cette liste ?
+
+645
+00:42:24,178 --> 00:42:26,138
+Nous les observerons de première main.
+
+646
+00:42:27,557 --> 00:42:29,225
+Et nous devons les voir en personne
+
+647
+00:42:29,642 --> 00:42:32,353
+et en savoir plus sur
+ce qu'ils ont fait dans la production.
+
+648
+00:42:33,020 --> 00:42:37,775
+Ensuite, nous préparerons un piège
+cela peut l'exposer.
+
+649
+00:42:38,734 --> 00:42:41,445
+Et comment exactement
+est-ce que tu comptes faire ça ?
+
+650
+00:42:41,904 --> 00:42:43,072
+Ne t'inquiète pas.
+
+651
+00:42:44,448 --> 00:42:45,700
+J'ai quelque chose en tête.
+
+652
+00:42:53,541 --> 00:42:55,585
+<i>Pouvons-nous assister à votre
+répétition d'ici demain ?</i>
+
+653
+00:43:01,882 --> 00:43:02,967
+<i>Bien sûr !</i>
+
+654
+00:43:09,932 --> 00:43:12,077
+Allez, on va être en retard
+pour notre prochain cours !
+
+655
+00:43:12,107 --> 00:43:13,267
+Justement, quelle heure est-il maintenant ?
+
+656
+00:43:14,353 --> 00:43:15,353
+Juste un instant.
+
+657
+00:43:15,354 --> 00:43:17,607
+Il ne reste que dix minutes,
+nous allons être en retard.
+
+658
+00:43:23,738 --> 00:43:25,424
+Lorie !
+
+659
+00:43:25,448 --> 00:43:26,699
+- Jamie.
+- Salut!
+
+660
+00:43:27,575 --> 00:43:28,826
+Où est Loki ?
+
+661
+00:43:29,827 --> 00:43:32,955
+Il sera bientôt là.
+De toute façon, il est toujours à l’heure.
+
+662
+00:43:33,414 --> 00:43:35,166
+Nous sommes juste en avance.
+
+663
+00:43:42,673 --> 00:43:43,673
+Lori…
+
+664
+00:43:45,551 --> 00:43:46,886
+puis-je demander quelque chose ?
+
+665
+00:43:47,970 --> 00:43:49,055
+Qu'est-ce que c'est?
+
+666
+00:43:53,601 --> 00:43:56,854
+Est-ce qu'il se passe quelque chose
+entre toi et Loki ?
+
+667
+00:43:57,229 --> 00:43:58,230
+Quoi?
+
+668
+00:43:58,689 --> 00:44:00,125
+Rien.
+
+669
+00:44:00,149 --> 00:44:02,985
+Loki et moi sommes juste des camarades de club,
+et colocataires.
+
+670
+00:44:03,319 --> 00:44:06,822
+En plus, je ne peux pas m'imaginer
+tomber amoureux de ce type.
+
+671
+00:44:10,627 --> 00:44:12,254
+Exactement comme je le pensais.
+
+672
+00:44:12,903 --> 00:44:15,864
+Loki ne tombera jamais
+pour quelqu'un comme toi.
+
+673
+00:44:17,071 --> 00:44:18,113
+En fait, je me demandais
+
+674
+00:44:18,114 --> 00:44:21,201
+pourquoi tu es toujours à la traîne
+derrière lui comme un chiot.
+
+675
+00:44:21,225 --> 00:44:26,098
+Et pourquoi penses-tu que Loki a accepté
+votre candidature au club ?
+
+676
+00:44:26,122 --> 00:44:31,877
+Tu ressembles à un stupide chihuahua
+sans talents ni art de détection.
+
+677
+00:44:33,933 --> 00:44:37,228
+Carte faciale ?
+C’est assez banal.
+
+678
+00:44:38,020 --> 00:44:42,692
+Ou était-ce parce que tu l'as soudoyé
+pour te laisser rejoindre ?
+
+679
+00:44:46,621 --> 00:44:47,705
+Je suis là.
+
+680
+00:44:48,072 --> 00:44:50,157
+Enfin, Loki, tu es là !
+
+681
+00:44:53,536 --> 00:44:54,662
+Êtes-vous d'accord?
+
+682
+00:44:57,248 --> 00:44:59,584
+Ouais, bien sûr.
+
+683
+00:45:12,421 --> 00:45:14,673
+- Nous sommes là !
+- Attendez.
+
+684
+00:45:18,259 --> 00:45:21,248
+- Oh mon Dieu, Jamie !
+- Salut!
+
+685
+00:45:21,253 --> 00:45:24,397
+Je m'appelle Stein Alberts.
+Et je suis ravi de vous rencontrer tous les deux.
+
+686
+00:45:24,410 --> 00:45:26,579
+Qu'est-ce qu'une majeure en mathématiques
+comme toi, tu fais ici ?
+
+687
+00:45:27,779 --> 00:45:30,846
+Ne devrais-tu pas résoudre
+des équations mathématiques complexes ?
+
+688
+00:45:30,866 --> 00:45:34,869
+En tant que réalisateur,
+c'est mon travail d'assurer le public
+
+689
+00:45:34,870 --> 00:45:36,210
+obtient une expérience visuelle de haute qualité.
+
+690
+00:45:36,234 --> 00:45:37,861
+Je vais t'aider, d'accord ?
+
+691
+00:45:38,558 --> 00:45:40,113
+Vous irez mieux.
+
+692
+00:45:46,544 --> 00:45:51,465
+Alors maintenant que nous avons rencontré ses quatre suspects,
+À votre avis, qui est notre homme mystérieux ?
+
