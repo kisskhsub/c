@@ -1,0 +1,3815 @@
+1
+00:01:37,860 --> 00:01:41,039
+[The Epoch of Miyu]
+
+2
+00:01:41,140 --> 00:01:43,920
+[Episode 14]
+
+3
+00:01:46,280 --> 00:01:47,340
+Paano sila sumagot?
+
+4
+00:01:48,710 --> 00:01:50,640
+Sinabi nila sa akin
+pinag-iisipan pa nila.
+
+5
+00:01:50,640 --> 00:01:51,710
+Walang tiyak.
+
+6
+00:01:51,710 --> 00:01:54,070
+Nagpadala rin kami ng mga tao upang suriin.
+
+7
+00:01:54,310 --> 00:01:56,509
+Sinabi nilang wala ang amo,
+
+8
+00:01:56,640 --> 00:01:58,350
+o sila ay malabo.
+
+9
+00:01:58,759 --> 00:01:59,620
+Akala ko,
+
+10
+00:01:59,789 --> 00:02:02,250
+mula noong kasunduan
+sa pagitan natin ay nag-expire na,
+
+11
+00:02:02,310 --> 00:02:05,000
+Hahayaan ko ang front office,
+ang dibisyon ng mga silid,
+
+12
+00:02:05,000 --> 00:02:06,640
+at ang departamento ng pananalapi
+ayusin ang mga account
+
+13
+00:02:06,640 --> 00:02:08,699
+at bawiin ang mga kuwarto ngayong weekend.
+
+14
+00:02:18,120 --> 00:02:19,630
+Mr. Ji, mangyaring maglaan ng oras upang lagdaan
+
+15
+00:02:19,630 --> 00:02:22,240
+ang dalawang dokumentong ito.
+
+16
+00:02:22,520 --> 00:02:24,630
+Pagkatapos ay aalis na ako.
+
+17
+00:02:24,990 --> 00:02:25,520
+Okay.
+
+18
+00:02:43,060 --> 00:02:45,350
+[Senior]
+
+19
+00:02:47,740 --> 00:02:48,060
+[Xue Rui]
+
+20
+00:02:52,680 --> 00:02:53,630
+Ang mga folder na ito
+
+21
+00:02:53,630 --> 00:02:56,680
+naglalaman ng lahat ng singil sa kita ng hotel.
+
+22
+00:02:57,280 --> 00:02:58,000
+Para sa kung paano mag-compile
+
+23
+00:02:58,000 --> 00:02:58,680
+at ikategorya ang mga ito,
+
+24
+00:02:58,680 --> 00:03:00,280
+sundin lamang ang template noong nakaraang taon.
+
+25
+00:03:00,280 --> 00:03:01,520
+Suriin ang aking pwet!
+
+26
+00:03:02,470 --> 00:03:03,310
+Makinig nang mabuti:
+
+27
+00:03:03,310 --> 00:03:05,770
+kumuha muna ng pirma ng general manager!
+
+28
+00:03:07,560 --> 00:03:09,480
+Hindi ba sa general manager
+pirma dito?
+
+29
+00:03:08,670 --> 00:03:09,540
+[Form ng Pagsusuri ng Pondo] [Lagda ng GM: Ji Feng]
+
+30
+00:03:09,630 --> 00:03:12,040
+Dito kailangan natin ng pirma ni Mr. Wei!
+
+31
+00:03:16,320 --> 00:03:17,410
+hindi mo ba naiintindihan?
+
+32
+00:03:17,410 --> 00:03:19,810
+Ni hindi mo alam
+kung kanino ka nagtatrabaho.
+
+33
+00:03:22,280 --> 00:03:23,140
+Direktor Xue.
+
+34
+00:03:25,100 --> 00:03:25,900
+Direktor Xue,
+
+35
+00:03:27,400 --> 00:03:29,950
+ay ang occupancy rate
+hindi tama ang pagkalkula?
+
+36
+00:03:29,950 --> 00:03:31,520
+[Kagawaran ng Housekeeping
+Ulat sa Rate ng Occupancy]
+
+37
+00:03:30,040 --> 00:03:31,630
+Ito ay 10 porsyento na puntos
+mas mababa kaysa noong nakaraang linggo.
+
+38
+00:03:31,520 --> 00:03:32,400
+[Kabuuang Kwarto] [Occupied Rooms]
+
+39
+00:03:32,010 --> 00:03:34,420
+Ito ay 58% noong nakaraang Biyernes.
+
+40
+00:03:32,420 --> 00:03:38,870
+[Occupancy Rate Line Chart]
+
+41
+00:03:34,680 --> 00:03:35,740
+Pagkatapos ng katapusan ng linggo,
+
+42
+00:03:35,750 --> 00:03:36,190
+ito
+
+43
+00:03:37,000 --> 00:03:38,750
+biglang bumaba sa 48%.
+
+44
+00:03:39,240 --> 00:03:39,900
+Tingnan mo.
+
+45
+00:04:07,160 --> 00:04:10,250
+[Ulat sa Pagbibitiw]
+
+46
+00:04:10,610 --> 00:04:13,270
+[Application: Xue Rui]
+
+47
+00:04:15,340 --> 00:04:19,230
+[Ji Feng]
+
+48
+00:04:42,770 --> 00:04:44,680
+♪ Ang buhay ay puno ng ♪
+
+49
+00:04:45,730 --> 00:04:48,380
+♪ Hindi mabilang na sangang-daan ♪
+
+50
+00:04:49,909 --> 00:04:53,760
+♪ Habulin nang husto ang saya, at ito ay dumulas ♪
+
+51
+00:04:55,190 --> 00:04:55,600
+[Listahan ng Paghahatid]
+
+52
+00:04:55,350 --> 00:04:57,350
+♪ Lahat ng mga kalituhan ♪
+
+53
+00:04:55,659 --> 00:04:57,320
+[HSKP Department] [Proyekto] [Balanse]
+
+54
+00:04:57,320 --> 00:04:58,110
+[May 31, Sales Department Banquet]
+
+55
+00:04:57,940 --> 00:05:01,660
+♪ Walang sagot, walang dahilan ♪
+
+56
+00:04:58,130 --> 00:04:58,820
+[Komisyon sa Pagbebenta: 12,000 Hindi Naitala]
+
+57
+00:05:02,540 --> 00:05:06,540
+♪ Ibinabato ang ating sarili
+sa agos ng hindi kilalang ♪
+
+58
+00:05:09,940 --> 00:05:12,060
+♪ Alam kung kailan uusad o aatras,
+tulog pa ♪
+
+59
+00:05:13,470 --> 00:05:15,390
+♪ Nagmamadaling mahinog bago ang ating panahon ♪
+
+60
+00:05:17,220 --> 00:05:21,060
+♪ Buntong-hininga sa paghihiwalay,
+kung sino ang makakatagpo kung saan tumatawid ♪
+
+61
+00:05:22,740 --> 00:05:24,540
+♪ Busy at hindi mapakali ♪
+
+62
+00:05:25,140 --> 00:05:28,570
+♪ Walang babalikan, walang tigil ♪
+
+63
+00:05:29,910 --> 00:05:33,970
+♪ Ang aming landas—nakikita mo na ba ito ngayon ♪
+
+64
+00:05:35,980 --> 00:05:38,440
+♪ Iangat mo lang ang ulo mo, oh ♪
+
+65
+00:05:39,659 --> 00:05:41,630
+♪ Huwag lumingon ♪
+
+66
+00:05:42,659 --> 00:05:44,390
+♪ Natuto na ako ♪
+
+67
+00:05:45,210 --> 00:05:48,920
+♪ Kung hindi akin, hindi ko pipilitin ♪
+
+68
+00:05:49,740 --> 00:05:51,310
+♪ Kahit anong pilit mo ♪
+
+69
+00:05:52,200 --> 00:05:56,270
+♪ Ito ay magiging mahaba,
+walang katapusang paghihintay ♪
+
+70
+00:05:57,120 --> 00:06:00,060
+♪ Naghihintay na makipagkasundo sa sarili ko ♪
+
+71
+00:06:00,760 --> 00:06:03,250
+♪ At naghihintay na makatagpo muli ♪
+
+72
+00:06:03,980 --> 00:06:05,620
+♪ Kaway paalam ♪
+
+73
+00:06:10,760 --> 00:06:13,220
+♪ Iangat mo lang ang ulo mo, oh ♪
+
+74
+00:06:11,900 --> 00:06:12,830
+Numero ng buntot 2867.
+
+75
+00:06:12,830 --> 00:06:14,440
+Sa high-speed rail station.
+
+76
+00:06:14,440 --> 00:06:16,310
+♪ Huwag lumingon ♪
+
+77
+00:06:17,550 --> 00:06:19,210
+♪ Natuto na ako ♪
+
+78
+00:06:19,950 --> 00:06:23,750
+♪ Kung hindi akin, hindi ko pipilitin ♪
+
+79
+00:06:20,830 --> 00:06:21,960
+Hindi mo na kailangan pumunta.
+
+80
+00:06:22,080 --> 00:06:23,140
+Ako mismo ang bumalik.
+
+81
+00:06:24,510 --> 00:06:25,780
+♪ Kahit anong pilit mo ♪
+
+82
+00:06:24,630 --> 00:06:25,720
+Sir, hindi po ako sasakay.
+
+83
+00:06:25,720 --> 00:06:27,040
+-Ayos lang.
+-Maaari mo pa ring buksan ang order;
+
+84
+00:06:26,760 --> 00:06:30,950
+♪ Ito ay magiging mahaba,
+walang katapusang paghihintay ♪
+
+85
+00:06:27,040 --> 00:06:27,560
+Magbabayad ako online.
+
+86
+00:06:27,560 --> 00:06:28,240
+Okay.
+
+87
+00:06:30,520 --> 00:06:31,890
+Sa pamamagitan ng pagbabalik sa aking salita,
+
+88
+00:06:31,900 --> 00:06:34,430
+♪ Naghihintay na makipagkasundo sa sarili ko ♪
+
+89
+00:06:32,020 --> 00:06:33,680
+Na-offend ko na lahat
+
+90
+00:06:33,680 --> 00:06:34,680
+sa Yiting Siji.
+
+91
+00:06:35,420 --> 00:06:36,290
+Kailangan mo akong alagaan.
+
+92
+00:06:35,530 --> 00:06:37,790
+♪ At naghihintay na makatagpo muli ♪
+
+93
+00:06:36,640 --> 00:06:37,350
+gagawin ko.
+
+94
+00:06:37,390 --> 00:06:39,110
+Ako na ang bahala sa kinabukasan mo.
+
+95
+00:06:38,700 --> 00:06:40,110
+♪ Kaway paalam ♪
+
+96
+00:06:39,240 --> 00:06:39,900
+Huwag magyabang.
+
+97
+00:06:40,040 --> 00:06:40,600
+Gayundin,
+
+98
+00:06:40,680 --> 00:06:41,960
+Kinansela ko ang aking pag-upa.
+
+99
+00:06:42,240 --> 00:06:43,240
+Wala akong tirahan ngayon.
+
+100
+00:06:43,360 --> 00:06:44,650
+Ako na ang mag-aayos ng iba.
+
+101
+00:06:44,800 --> 00:06:46,659
+Una, pumunta sa HR at sumakay.
+
+102
+00:06:46,720 --> 00:06:47,480
+Bakit nagmamadali?
+
+103
+00:06:47,480 --> 00:06:49,340
+Natatakot akong tumakas ka ulit.
+
+104
+00:06:49,800 --> 00:06:50,360
+Tara na.
+
+105
+00:06:55,800 --> 00:06:56,240
+Okay.
+
+106
+00:06:57,480 --> 00:06:58,240
+nakuha ko na.
+
+107
+00:07:10,600 --> 00:07:11,240
+Mr. Wei,
+
+108
+00:07:11,950 --> 00:07:15,070
+magdagdag ng desk sa opisina ni Mr. Ji.
+
+109
+00:07:17,190 --> 00:07:20,070
+[Qian][Wei]
+
+110
+00:07:20,620 --> 00:07:21,440
+Ikinalulungkot kong pinagdaanan kita.
+
+111
+00:07:21,440 --> 00:07:22,770
+Maging katulong ko sa ngayon.
+
+112
+00:07:23,020 --> 00:07:24,840
+Kapag nalaman ko ang management team,
+
+113
+00:07:24,840 --> 00:07:26,170
+Ibabalik kita sa
+ang departamento ng pananalapi.
+
+114
+00:07:26,170 --> 00:07:27,100
+wala yun.
+
+115
+00:07:27,480 --> 00:07:27,830
+Halika,
+
+116
+00:07:28,240 --> 00:07:29,640
+halika at tingnan mo.
+
+117
+00:07:30,120 --> 00:07:32,180
+Dadalhin kita sa sitwasyon.
+
+118
+00:07:32,800 --> 00:07:34,350
+Ang "iron triangle" ni Wei Siyuan.
+
+119
+00:07:34,350 --> 00:07:35,930
+[Huang] [Qian] [Wei] [Feng]
+
+120
+00:07:34,480 --> 00:07:36,480
+Qian Xun mula sa departamento ng pagbebenta,
+
+121
+00:07:36,520 --> 00:07:37,560
+Huang Chengmin
+mula sa departamento ng pananalapi,
+
+122
+00:07:37,330 --> 00:07:42,300
+[Huang] [Qian] [Wei] [Feng]
+
+123
+00:07:37,720 --> 00:07:40,050
+at Feng Kaixin mula sa HSKP Department,
+
+124
+00:07:40,070 --> 00:07:42,070
+lahat ay kamag-anak.
+
+125
+00:07:44,560 --> 00:07:45,240
+Matibay ba ito?
+
+126
+00:07:45,800 --> 00:07:46,430
+Oo.
+
+127
+00:07:46,430 --> 00:07:47,000
+Xiang,
+
+128
+00:07:47,250 --> 00:07:48,370
+halika, kamustahin mo si nanay.
+
+129
+00:07:49,070 --> 00:07:51,800
+Ang isa ay ang pinsan
+ng biyenan ni Wei Siyuan,
+
+130
+00:07:51,820 --> 00:07:53,030
+Mag-ingat ka.
+
+131
+00:07:53,800 --> 00:07:55,600
+isa pa ang kanyang bayaw,
+
+132
+00:07:57,040 --> 00:07:59,440
+at ito ay sa kanyang asawa
+nakababatang kapatid.
+
+133
+00:08:00,390 --> 00:08:02,270
+Mayroon silang ganap na kontrol sa
+Purong Hotel's finances.
+
+134
+00:08:02,270 --> 00:08:03,120
+Xiang.
+
+135
+00:08:03,120 --> 00:08:03,920
+Pindutin ang alinman sa mga ito,
+
+136
+00:08:03,920 --> 00:08:06,140
+at laban ka sa apat.
+
+137
+00:08:06,920 --> 00:08:07,920
+Dahan dahan lang!
+
+138
+00:08:12,680 --> 00:08:13,510
+Baby.
+
+139
+00:08:14,540 --> 00:08:16,500
+[Yunji Equestrian Club]
+
+140
+00:08:14,560 --> 00:08:15,250
+salamat po.
+
+141
+00:08:15,720 --> 00:08:15,920
+Halika na.
+
+142
+00:08:15,920 --> 00:08:16,600
+Go, go, go.
+
+143
+00:08:16,870 --> 00:08:18,560
+Halika, mga bata, kumuha ng iyong gatas.
+
+144
+00:08:18,580 --> 00:08:19,160
+Halika, halika, halika.
+
+145
+00:08:19,160 --> 00:08:19,930
+Cheers.
+
+146
+00:08:20,040 --> 00:08:21,800
+-Cheers!
+-Cheers!
+
+147
+00:08:20,540 --> 00:08:23,330
+[Yunji Equestrian Club]
+
+148
+00:08:21,800 --> 00:08:22,830
+Bottoms up.
+
+149
+00:08:25,040 --> 00:08:26,560
+Sa dalawang pangunahing kliyente
+Nawala ang Purong Hotel,
+
+150
+00:08:26,560 --> 00:08:27,560
+ang isa ay Shijing Tech,
+
+151
+00:08:27,560 --> 00:08:29,360
+at ang isa ay Zhanpeng Industry.
+
+152
+00:08:29,360 --> 00:08:32,620
+Mayroon silang napakagandang personal na relasyon
+kasama si Qian Xun.
+
+153
+00:08:35,440 --> 00:08:36,120
+Qian,
+
+154
+00:08:36,360 --> 00:08:37,700
+negosyo mo ang negosyo namin.
+
+155
+00:08:37,700 --> 00:08:38,700
+Mabuti, mabuti, mabuti.
+
+156
+00:08:39,360 --> 00:08:40,289
+Mr. Zheng, halika.
+
+157
+00:08:40,520 --> 00:08:42,780
+Kung gusto mo
+i-renew ang kontrata sa susunod na taon,
+
+158
+00:08:42,780 --> 00:08:44,670
+Mr. Qian, isang salita lang ang kailangan mo.
+
+159
+00:08:44,670 --> 00:08:45,810
+Mabuti, mabuti.
+
+160
+00:08:47,000 --> 00:08:49,090
+Salamat sa iyong tulong.
+
+161
+00:08:49,150 --> 00:08:49,790
+Halika na!
+
+162
+00:08:50,030 --> 00:08:52,000
+Narito ang aming matagumpay na pagtutulungan.
+
+163
+00:08:52,000 --> 00:08:53,390
+Pinagsasama-sama ang lahat,
+
+164
+00:08:53,390 --> 00:08:54,170
+kung i-audit mo ang mga account,
+
+165
+00:08:54,170 --> 00:08:55,360
+tatanggalin nila ang mga kliyente.
+
+166
+00:08:55,360 --> 00:08:56,120
+Iyan ay karaniwang nagsasabi sa iyo
+
+167
+00:08:56,120 --> 00:08:58,180
+ang halaga ng panggugulo kay Feng Kaixin.
+
+168
+00:08:58,240 --> 00:08:58,910
+Oo.
+
+169
+00:08:59,480 --> 00:09:01,460
+Sinabi ko sa iyo na huwag dalhin ang gulo na ito.
+
+170
+00:09:01,600 --> 00:09:02,360
+Hayaan mo na lang si Kuanli
+
+171
+00:09:02,360 --> 00:09:04,550
+bilhin mo itong buong pugad ng mga ulupong.
+
+172
+00:09:05,120 --> 00:09:06,120
+Huwag na nating isipin ang nakaraan.
+
+173
+00:09:06,120 --> 00:09:07,600
+Dahil pinili mong lumaban,
+
+174
+00:09:07,600 --> 00:09:09,780
+kailangan nating malaman ang ating kaaway.
+
+175
+00:09:11,200 --> 00:09:12,750
+Kilala ko si Feng Kaixin.
+
+176
+00:09:13,390 --> 00:09:16,070
+Isa lang siyang walang kwenta.
+
+177
+00:09:16,510 --> 00:09:17,840
+Siya lang ang nabubuhay
+dahil pinoprotektahan siya ni Wei Siyuan.
+
+178
+00:09:17,840 --> 00:09:19,790
+[Huang] [Qian] [Wei] [Feng]
+
+179
+00:09:17,940 --> 00:09:20,200
+Ngunit si Huang Chengmin ay mas tuso.
+
+180
+00:09:20,320 --> 00:09:21,980
+Malalaman mo mula sa kanyang mga account
+
+181
+00:09:22,270 --> 00:09:23,080
+na siya
+
+182
+00:09:23,080 --> 00:09:24,340
+nagpapanatili ng mababang profile,
+
+183
+00:09:24,840 --> 00:09:26,080
+at siya yung tipong palihim.
+
+184
+00:09:26,080 --> 00:09:27,810
+Ang ulo ng "iron triangle"
+
+185
+00:09:27,840 --> 00:09:28,720
+ay si Qian Xun.
+
+186
+00:09:29,790 --> 00:09:31,270
+Sa Purong Hotel, Wei Siyuan
+
+187
+00:09:31,270 --> 00:09:32,730
+gumagawa ng pinakamaraming bawal na pera.
+
+188
+00:09:32,730 --> 00:09:35,270
+Bukod kay Wei Siyuan, malamang siya
+yung kumukuha ng kickback.
+
+189
+00:09:35,270 --> 00:09:36,530
+Kaya sa paggawa nito,
+
+190
+00:09:37,270 --> 00:09:39,080
+ginugulo mo ang mga interes niya.
+
+191
+00:09:39,080 --> 00:09:41,270
+Mag-ingat ka, baka siya
+sabotahe ang iyong pagganap.
+
+192
+00:09:41,270 --> 00:09:43,630
+Kung tutuusin, siya ang may hawak
+ang departamento ng pagbebenta.
+
+193
+00:09:43,630 --> 00:09:45,200
+Ang economic lifeline ng buong hotel
+
+194
+00:09:45,200 --> 00:09:46,600
+ay nasa kanyang mga kamay.
+
+195
+00:09:47,960 --> 00:09:49,160
+Naisip ko din yun.
+
+196
+00:09:49,390 --> 00:09:52,080
+Kaya wala akong balak umasa sa kanya
+para sa unang deal.
+
+197
+00:09:53,610 --> 00:09:55,210
+Tapos anong gagawin mo?
+
+198
+00:09:55,870 --> 00:09:56,270
+Dito.
+
+199
+00:10:02,690 --> 00:10:03,900
+[Inbox]
+
+200
+00:10:02,710 --> 00:10:03,770
+Libo Group.
+
+201
+00:10:03,920 --> 00:10:04,760
+[Libo Group APAC Chief Brand Officer]
+
+202
+00:10:04,020 --> 00:10:05,730
+Para sa unang deal,
+Kailangan kong hawakan ito ng personal.
+
+203
+00:10:04,780 --> 00:10:05,630
+[Marcos Yang Visits Purong Hotel]
+
+204
+00:10:05,850 --> 00:10:07,840
+Sa ganoong paraan, makakasiguro tayo
+walang mali—
+
+205
+00:10:07,840 --> 00:10:09,320
+at nagpapadala rin ito ng mensahe sa kanila.
+
+206
+00:10:09,320 --> 00:10:11,180
+Nakatuon ka sa pagdadala ng kita,
+
+207
+00:10:11,330 --> 00:10:12,350
+Tutulong ako magbawas ng gastos.
+
+208
+00:10:12,350 --> 00:10:13,270
+Magsimula ka sa pag-audit.
+
+209
+00:10:13,270 --> 00:10:14,870
+Tatamaan tayo mula sa magkabilang panig.
+
+210
+00:10:27,120 --> 00:10:29,360
+Pinaghirapan ko kayong tatlo.
+
+211
+00:10:29,680 --> 00:10:30,950
+Nandito ako
+
+212
+00:10:31,270 --> 00:10:32,670
+upang taimtim na humingi ng tawad.
+
+213
+00:10:33,080 --> 00:10:34,200
+Hayaan mong i-toast kita.
+
+214
+00:10:34,220 --> 00:10:35,070
+Bottoms up!
+
+215
+00:10:47,620 --> 00:10:48,720
+Sige.
+
+216
+00:10:49,150 --> 00:10:51,750
+Ang iyong negosyo ay aming negosyo.
+
+217
+00:10:52,050 --> 00:10:53,780
+Huwag mo kaming tratuhin na parang estranghero.
+
+218
+00:10:59,510 --> 00:11:00,390
+Kayo,
+
+219
+00:11:00,410 --> 00:11:02,170
+huwag lang magkadikit.
+
+220
+00:11:02,630 --> 00:11:05,000
+Ang bagong general manager ay bata pa
+
+221
+00:11:05,000 --> 00:11:06,510
+at hindi pamilyar sa lugar.
+
+222
+00:11:06,510 --> 00:11:09,630
+Dapat kang gumawa ng inisyatiba
+para bantayan siya.
+
+223
+00:11:14,710 --> 00:11:15,830
+Ingatan mo siya?
+
+224
+00:11:16,480 --> 00:11:17,080
+Oo naman.
+
+225
+00:11:17,510 --> 00:11:19,110
+"Aalagaan ko siya ng mabuti."
+
+226
+00:11:19,440 --> 00:11:20,240
+Pangako ko
+
+227
+00:11:20,240 --> 00:11:22,640
+Sisipain ko siya palabas
+sa wala pang tatlong buwan.
+
+228
+00:11:27,030 --> 00:11:30,180
+Alam ko ang background ng lalaking iyon Ji.
+
+229
+00:11:30,270 --> 00:11:33,240
+Hindi ba nag-aral lang siya sa ibang bansa
+sa loob ng ilang taon?
+
+230
+00:11:30,490 --> 00:11:33,870
+[Opisina ng General Manager]
+
+231
+00:11:39,510 --> 00:11:40,430
+[Inventory Ledger]
+
+232
+00:11:47,040 --> 00:11:47,760
+[Paunawa sa Pagtanggap ng Libo Group]
+
+233
+00:11:47,790 --> 00:11:48,600
+[APAC CBO Marcos Yang]
+
+234
+00:11:51,030 --> 00:11:52,480
+[Paunawa sa Pagtanggap ng Libo Group]
+
+235
+00:11:52,500 --> 00:11:54,100
+[APAC CBO Marcos Yang]
+
+236
+00:12:00,690 --> 00:12:01,520
+[Ipadala]
+[Impormasyon ng customer ng Purong Hotel]
+
+237
+00:12:03,300 --> 00:12:03,440
+[Nagpapadala ng mga email]
+
+238
+00:12:03,500 --> 00:12:04,550
+[Matagumpay na naipadala]
+
+239
+00:12:12,760 --> 00:12:15,730
+[Purong Directors Group Chat]
+
+240
+00:12:13,870 --> 00:12:14,870
+Mga Direktor,
+
+241
+00:12:15,270 --> 00:12:16,910
+mangyaring suriin ang impormasyon ng kliyente
+sa email.
+
+242
+00:12:16,910 --> 00:12:18,410
+Maghanda para makatanggap ng Libo Group
+
+243
+00:12:18,410 --> 00:12:19,770
+APAC CBO
+
+244
+00:12:19,800 --> 00:12:21,320
+Marcos Yang.
+
+245
+00:12:27,120 --> 00:12:28,600
+[Okay.]
+
+246
+00:12:31,040 --> 00:12:37,020
+[Okay.]
+
+247
+00:12:40,030 --> 00:12:40,640
+Kaixin,
+
+248
+00:12:41,550 --> 00:12:42,410
+mabilis sumagot.
+
+249
+00:12:42,950 --> 00:12:43,500
+Hindi.
+
+250
+00:12:43,910 --> 00:12:44,910
+Hindi ako magrereply.
+
+251
+00:12:45,840 --> 00:12:46,810
+[Ji Feng]
+
+252
+00:13:03,120 --> 00:13:05,390
+Si Feng ay mabangis lamang sa mga salita.
+
+253
+00:13:06,550 --> 00:13:07,880
+Ang Kaixin ay itinuturing na
+
+254
+00:13:08,480 --> 00:13:10,210
+kontrolin niya sa pagkakataong ito.
+
+255
+00:13:16,950 --> 00:13:18,440
+galit na galit ako!
+
+256
+00:13:18,870 --> 00:13:19,360
+Ako...
+
+257
+00:13:20,670 --> 00:13:21,410
+galit ako.
+
+258
+00:13:22,510 --> 00:13:24,290
+Pinapaasa niya talaga ako!
+
+259
+00:13:24,440 --> 00:13:25,700
+Sino siya sa tingin niya?
+
+260
+00:13:26,960 --> 00:13:27,890
+Huwag masyadong lumayo.
+
+261
+00:13:28,150 --> 00:13:29,150
+Ako, masyadong malayo?
+
+262
+00:13:30,630 --> 00:13:32,270
+Kapag nag-check in ang mga bisita sa hotel,
+
+263
+00:13:32,270 --> 00:13:35,600
+tiyak ang HSKP Department
+kailangan kong ayusin ang mga bagay.
+
+264
+00:13:35,630 --> 00:13:36,360
+Pero siya
+
+265
+00:13:36,360 --> 00:13:37,340
+hindi man lang nagtanong,
+
+266
+00:13:37,440 --> 00:13:39,770
+at direktang pinangalanan si Xu Miyu upang mamahala.
+
+267
+00:13:40,240 --> 00:13:41,740
+Tinatrato ba niya ako,
+ang Direktor ng Departamento ng HSKP,
+
+268
+00:13:41,740 --> 00:13:42,270
+siya...
+
+269
+00:13:43,000 --> 00:13:43,910
+bilang isang plorera?
+
+270
+00:13:45,150 --> 00:13:46,150
+Hindi ka plorera,
+
+271
+00:13:46,870 --> 00:13:48,120
+ngunit isang bote ng alak.
+
+272
+00:13:50,610 --> 00:13:51,320
+Ikaw...
+
+273
+00:13:51,840 --> 00:13:54,010
+Kapatid, magsabi ka ng ilang salita para sa akin.
+
+274
+00:13:55,670 --> 00:13:58,880
+Si Xu Miyu ang forewoman
+ng executive floor.
+
+275
+00:13:59,150 --> 00:14:00,750
+Mga VIP na nananatili sa executive floor
+
+276
+00:14:00,750 --> 00:14:02,510
+ay natural na pinangangasiwaan ni Xu Miyu.
+
+277
+00:14:02,510 --> 00:14:03,940
+Ano bang ikinagagalit mo?
+
+278
+00:14:03,940 --> 00:14:04,610
+Ako?
+
+279
+00:14:04,630 --> 00:14:06,430
+Syempre naiinis ako!
+
+280
+00:14:07,000 --> 00:14:08,530
+Sinong hindi nakakakilala sa babaeng yun
+
+281
+00:14:08,600 --> 00:14:10,000
+paborito ba ni Mr. Ji?
+
+282
+00:14:10,440 --> 00:14:12,230
+Nakukuha niya ang lahat ng spotlight?
+
+283
+00:14:12,390 --> 00:14:13,390
+Sobrang layo na.
+
+284
+00:14:14,000 --> 00:14:15,270
+Ang spotlight
+
+285
+00:14:15,380 --> 00:14:17,380
+depende sa kung paano mo hahayaan siyang kunin.
+
+286
+00:14:18,270 --> 00:14:19,670
+Kung gusto mo siyang sumikat,
+
+287
+00:14:20,560 --> 00:14:22,320
+hinayaan mo siyang sumikat sa tamang paraan.
+
+288
+00:14:23,270 --> 00:14:24,470
+Kung gusto mo siya
+
+289
+00:14:25,030 --> 00:14:26,510
+madapa,
+
+290
+00:14:27,330 --> 00:14:29,000
+option din yan.
+
+291
+00:14:29,620 --> 00:14:30,910
+Tama, Mr. Wei?
+
+292
+00:14:32,870 --> 00:14:34,030
+Anong ibig mong sabihin?
+
+293
+00:14:39,170 --> 00:14:40,910
+Sa pagitan ng Xu Miyu at Ji Feng,
+
+294
+00:14:40,910 --> 00:14:42,510
+wala ka pa ba?
+
+295
+00:14:43,430 --> 00:14:46,230
+Maaari ka lamang gumawa ng ilang mga pagsasaayos
+sa gitna,
+
+296
+00:14:47,930 --> 00:14:49,330
+at maglagay ng bitag para kay Xu Miyu.
+
+297
+00:14:50,010 --> 00:14:51,960
+Haharapin ba ito ni Ji Feng o hindi?
+
+298
+00:14:52,520 --> 00:14:53,390
+Kung hindi niya ito hawakan,
+
+299
+00:14:53,390 --> 00:14:54,510
+nawawalan siya ng suporta ng publiko.
+
+300
+00:14:54,510 --> 00:14:55,530
+Kung hahawakan niya ito,
+
+301
+00:14:55,530 --> 00:14:56,870
+kulang na nga siya—
+
+302
+00:14:56,870 --> 00:14:58,060
+nawalan siya ng ibang tao sa alinmang paraan.
+
+303
+00:14:58,060 --> 00:14:59,030
+Napakatalino.
+
+304
+00:15:00,480 --> 00:15:02,210
+Kayong dalawa ang napakatalino.
+
+305
+00:15:05,930 --> 00:15:06,510
+Halika na.
+
+306
+00:15:06,840 --> 00:15:07,670
+Itigil ang pag-inom.
+
+307
+00:15:07,670 --> 00:15:08,780
+Isang toast sa inyong dalawa.
+
+308
+00:15:08,960 --> 00:15:09,620
+Bottoms up!
+
+309
+00:15:09,720 --> 00:15:10,870
+Uminom ng mas kaunti.
+
+310
+00:15:13,200 --> 00:15:14,150
+Pag-isipan itong mabuti.
+
+311
+00:15:14,150 --> 00:15:15,510
+Gumawa ng ilang tunay na trabaho.
+
+312
+00:15:17,270 --> 00:15:18,200
+Kaixin.
+
+313
+00:15:23,990 --> 00:15:24,930
+Ms. Xu,
+
+314
+00:15:25,510 --> 00:15:27,790
+ang executive floor
+medyo mapayapa lately.
+
+315
+00:15:27,790 --> 00:15:28,600
+paano ito?
+
+316
+00:15:28,600 --> 00:15:30,400
+Nasasanay ka na ba sa trabaho?
+
+317
+00:15:31,080 --> 00:15:32,320
+Sinusubukan kong umangkop.
+
+318
+00:15:32,320 --> 00:15:33,030
+Direktor,
+
+319
+00:15:33,360 --> 00:15:34,440
+Patuloy akong magsusumikap.
+
+320
+00:15:34,440 --> 00:15:35,150
+Mabuti.
+
+321
+00:15:35,190 --> 00:15:36,250
+Napakahusay.
+
+322
+00:15:37,390 --> 00:15:38,390
+Sa ngayon,
+
+323
+00:15:38,390 --> 00:15:40,850
+Mayroon akong magandang pagkakataon
+para magperform ka.
+
+324
+00:15:41,600 --> 00:15:42,460
+Parang ganito.
+
+325
+00:15:42,790 --> 00:15:43,870
+Susunod, ang aming hotel
+
+326
+00:15:43,950 --> 00:15:45,790
+ay magho-host ng isang mahalagang kliyenteng VIP.
+
+327
+00:15:45,790 --> 00:15:46,550
+Mr. Ji
+
+328
+00:15:46,550 --> 00:15:48,440
+itinalaga ang gawaing ito sa aming Departamento ng HSKP.
+
+329
+00:15:48,440 --> 00:15:50,670
+Ngayon ibibigay ko na sayo.
+
+330
+00:15:51,520 --> 00:15:52,460
+Dapat mong malaman
+
+331
+00:15:52,910 --> 00:15:55,440
+ito ay isang bihirang pagkakataon
+upang patunayan ang iyong sarili.
+
+332
+00:15:55,670 --> 00:15:56,720
+Sa aming HSKP Department,
+
+333
+00:15:56,720 --> 00:15:59,600
+maraming forewomen
+gustong ipakita ang kanilang mga mukha.
+
+334
+00:16:00,080 --> 00:16:01,200
+may tiwala ako sayo.
+
+335
+00:16:05,320 --> 00:16:06,080
+Ito
+
+336
+00:16:06,130 --> 00:16:07,660
+ay ang profile ng customer.
+
+337
+00:16:08,080 --> 00:16:10,000
+Dapat mong pag-aralan itong mabuti
+kapag nakabalik ka.
+
+338
+00:16:10,000 --> 00:16:11,080
+Maghanda nang mabuti,
+
+339
+00:16:11,240 --> 00:16:13,370
+at magsikap na gumawa ng mga bagong kontribusyon.
+
+340
+00:16:16,070 --> 00:16:17,200
+Okay, Direktor.
+
+341
+00:16:18,240 --> 00:16:20,350
+[Impormasyon ng Customer ng Purong Hotel]
+
+342
+00:16:21,510 --> 00:16:22,310
+anong mali?
+
+343
+00:16:22,790 --> 00:16:25,440
+Mukhang hindi ka payag.
+
+344
+00:16:26,390 --> 00:16:27,290
+Hindi.
+
+345
+00:16:27,670 --> 00:16:29,080
+Salamat sa iyong pabor, Direktor.
+
+346
+00:16:29,080 --> 00:16:30,030
+Ang aming executive floor
+
+347
+00:16:30,030 --> 00:16:31,910
+tiyak na magbibigay
+magandang reception service.
+
+348
+00:16:31,910 --> 00:16:32,430
+Mabuti.
+
+349
+00:16:33,150 --> 00:16:33,850
+Ms. Xu,
+
+350
+00:16:34,370 --> 00:16:36,480
+Malaki ang pag-asa ko sayo.
+
+351
+00:16:36,510 --> 00:16:38,820
+Pakitiyak na hindi ko gagawin
+
+352
+00:16:39,140 --> 00:16:40,320
+magwala sa harap ni Mr.Ji.
+
+353
+00:16:40,320 --> 00:16:41,030
+Okay.
+
+354
+00:16:41,320 --> 00:16:42,250
+Gagawin ko ang aking makakaya.
+
+355
+00:16:43,220 --> 00:16:43,910
+Halika na.
+
+356
+00:16:43,910 --> 00:16:45,080
+Bumalik ka at maghanda ng mabuti.
+
+357
+00:16:45,080 --> 00:16:46,080
+Pupunta ako ngayon.
+
+358
+00:16:56,900 --> 00:16:59,270
+[Purong Hotel]
+
+359
+00:16:58,600 --> 00:16:59,150
+G. Qian,
+
+360
+00:16:59,440 --> 00:17:00,670
+narito ang mga profile ng kliyente
+pina-print mo ako.
+
+361
+00:17:00,670 --> 00:17:01,460
+Mangyaring tingnan.
+
+362
+00:17:01,460 --> 00:17:05,740
+[Tanggapan ng Direktor]
+
+363
+00:17:01,910 --> 00:17:02,870
+Panatilihin ang mga ito sa iyo sa ngayon.
+
+364
+00:17:02,870 --> 00:17:04,680
+Pero sabi sa notice
+darating ang kliyenteng ito bukas.
+
+365
+00:17:04,680 --> 00:17:06,210
+Paano natin ito dapat ayusin?
+
+366
+00:17:07,720 --> 00:17:08,160
+Aba,
+
+367
+00:17:08,849 --> 00:17:10,579
+tanungin ang lahat ng nasa group chat.
+
+368
+00:17:11,030 --> 00:17:13,450
+Ibigay ang mga materyales na ito sa
+kung sino man ang gustong pumunta.
+
+369
+00:17:13,450 --> 00:17:14,170
+Okay.
+
+370
+00:17:18,990 --> 00:17:21,270
+Paunawa: Mga kasamahan, pakisuri na
+
+371
+00:17:21,270 --> 00:17:22,680
+nasa email ang impormasyon ng kliyente.
+
+372
+00:17:22,680 --> 00:17:24,310
+Mangyaring aktibong lumahok
+
+373
+00:17:24,310 --> 00:17:25,750
+sa paghahanda para sa
+nagho-host ng Libo Group
+
+374
+00:17:25,750 --> 00:17:27,000
+APAC CBO,
+
+375
+00:17:27,000 --> 00:17:28,569
+Marcos Yang.
+
+376
+00:17:28,830 --> 00:17:30,510
+Salamat sa iyong kooperasyon—
+
+377
+00:17:30,510 --> 00:17:31,840
+mula sa departamento ng pagbebenta.
+
+378
+00:17:38,830 --> 00:17:39,550
+Ang pinadala ko sa iyo
+
+379
+00:17:39,550 --> 00:17:40,920
+ay ang renewal contract na ginawa ng Purong.
+
+380
+00:17:40,920 --> 00:17:42,580
+Suriin muna ito para sa anumang mga isyu.
+
+381
+00:17:44,720 --> 00:17:46,320
+Kakausapin ko si Mr. Wei.
+
+382
+00:17:46,610 --> 00:17:48,470
+Balitaan kita kapag may balita na ako.
+
+383
+00:17:50,980 --> 00:17:51,620
+Mahal,
+
+384
+00:17:52,590 --> 00:17:54,510
+huwag magmadaling pumirma ng kontrata.
+
+385
+00:17:54,510 --> 00:17:55,310
+anong mali?
+
+386
+00:18:03,720 --> 00:18:06,820
+Purong Hotel ay nasa isang kabuuang gulo ngayon.
+
+387
+00:18:07,120 --> 00:18:08,320
+Huwag kang makialam.
+
+388
+00:18:08,790 --> 00:18:10,440
+Pagbabago ng pagmamay-ari
+ay negosyo sa susunod na taon.
+
+389
+00:18:10,440 --> 00:18:11,200
+Bukod,
+
+390
+00:18:11,200 --> 00:18:12,600
+Si Mr. Wei ay hindi isang tagalabas.
+
+391
+00:18:12,600 --> 00:18:14,400
+Pirmahan na lang natin ang kontrata ngayong taon.
+
+392
+00:18:14,400 --> 00:18:15,830
+Hindi iyon kung paano ito gumagana.
+
+393
+00:18:16,290 --> 00:18:18,830
+Kung ang posisyon ni Wei Siyuan
+ay ligtas o hindi,
+
+394
+00:18:18,830 --> 00:18:20,070
+mahirap sabihin.
+
+395
+00:18:20,620 --> 00:18:22,080
+Anyway, makinig ka lang sa akin.
+
+396
+00:18:22,350 --> 00:18:24,350
+Pirmahan ito makalipas ang ilang araw, okay?
+
+397
+00:18:25,110 --> 00:18:26,070
+Okay?
+
+398
+00:18:26,070 --> 00:18:27,000
+Okay.
+
+399
+00:18:27,000 --> 00:18:28,460
+Pakikinggan kita, honey.
+
+400
+00:18:31,310 --> 00:18:31,910
+Ano ito?
+
+401
+00:18:31,980 --> 00:18:33,480
+May magandang ipapakita ako sa iyo.
+
+402
+00:18:33,480 --> 00:18:34,410
+Anong magandang bagay?
+
+403
+00:18:36,420 --> 00:18:37,540
+[Yueting Real Estate:
+Bumuo ng Bahay na May Katalinuhan]
+
+404
+00:18:38,750 --> 00:18:41,070
+Kung saan kami nakatira ngayon
+ay maginhawa at abot-kaya.
+
+405
+00:18:41,070 --> 00:18:42,270
+Hindi pa ba sapat ito?
+
+406
+00:18:42,850 --> 00:18:44,480
+Tingnan mong mabuti,
+
+407
+00:18:44,880 --> 00:18:46,680
+ito ay bahay ng distrito ng paaralan.
+
+408
+00:18:47,310 --> 00:18:48,920
+Ang Pang-eksperimentong Primary School,
+
+409
+00:18:48,920 --> 00:18:50,310
+ang Normal University
+Kaakibat na Primary School,
+
+410
+00:18:50,310 --> 00:18:52,830
+at ilang pribadong paaralang elementarya
+lahat ay malapit.
+
+411
+00:18:52,830 --> 00:18:55,260
+napadaan lang ako
+nang may nakilala akong kliyente ngayon,
+
+412
+00:18:55,350 --> 00:18:57,180
+at nakitang maraming tao ang nagmamadaling bumili nito.
+
+413
+00:18:57,180 --> 00:18:58,370
+Tingnan ang floor plan na ito.
+
+414
+00:18:58,370 --> 00:18:59,900
+[Ang highlight ng sambahayan]
+
+415
+00:18:58,750 --> 00:19:00,790
+Ang bawat silid ay nakaharap sa timog.
+
+416
+00:19:01,160 --> 00:19:02,590
+Saan ka pa kaya
+makahanap ng floor plan na ganito?
+
+417
+00:19:02,590 --> 00:19:03,790
+Pagkatapos maipanganak ang bata,
+
+418
+00:19:03,790 --> 00:19:06,410
+yaya man o nanay natin ang dumating para tumulong,
+
+419
+00:19:06,550 --> 00:19:08,240
+hindi ba kailangan nila ng magandang tirahan?
+
+420
+00:19:08,240 --> 00:19:09,640
+Tama, may katuturan iyon.
+
+421
+00:19:09,640 --> 00:19:12,000
+Pero ang problema
+ay hindi pa ipinapanganak ang bata.
+
+422
+00:19:12,000 --> 00:19:13,590
+Masyado pang maaga para sa paaralan.
+
+423
+00:19:14,790 --> 00:19:16,270
+Ngayon upang pumunta sa elementarya,
+
+424
+00:19:16,270 --> 00:19:18,870
+kailangan mo ng 5 taon ng school district house
+kwalipikasyon nang maaga.
+
+425
+00:19:18,870 --> 00:19:20,310
+Sa tingin mo ay masyadong maaga?
+
+426
+00:19:20,310 --> 00:19:21,620
+Ang tanga mo dad.
+
+427
+00:19:21,750 --> 00:19:23,500
+Hintayin natin hanggang matapos ako
+abalang panahon na ito.
+
+428
+00:19:23,500 --> 00:19:24,260
+Hindi.
+
+429
+00:19:24,560 --> 00:19:26,400
+Kailangan nating mag-house hunting ngayong weekend.
+
+430
+00:19:26,400 --> 00:19:28,860
+Kung hindi, ang floor plan na ito
+mabenta na.
+
+431
+00:19:28,890 --> 00:19:29,870
+Mahal,
+
+432
+00:19:30,160 --> 00:19:32,310
+Busy talaga ako sa trabaho lately.
+
+433
+00:19:35,550 --> 00:19:38,280
+Alin ang mas mahalaga,
+ang sanggol o ang kumpanya?
+
+434
+00:19:39,750 --> 00:19:41,270
+Alin ang mas mahalaga,
+ang sanggol o ang kumpanya?
+
+435
+00:19:41,270 --> 00:19:42,800
+Ang sanggol ay mas mahalaga.
+
+436
+00:19:44,830 --> 00:19:47,030
+Tingnan natin ngayong weekend.
+
+437
+00:20:10,810 --> 00:20:12,890
+[Kalagayan ng kalusugan]
+[Psychology health attention]
+
+438
+00:20:23,000 --> 00:20:23,720
+Mr. Ji.
+
+439
+00:20:24,490 --> 00:20:26,200
+Kumusta ka sa mga materyales?
+
+440
+00:20:26,200 --> 00:20:27,110
+Halos tapos na.
+
+441
+00:20:27,110 --> 00:20:28,710
+Ire-review ko pa sila ng dalawang beses.
+
+442
+00:20:29,240 --> 00:20:30,550
+G. Yang
+
+443
+00:20:30,550 --> 00:20:31,920
+ay Espanyol-Intsik.
+
+444
+00:20:32,270 --> 00:20:34,720
+Siya ay may malalim na pagmamahal
+para sa kulturang Tsino.
+
+445
+00:20:34,720 --> 00:20:36,550
+Naglalakbay siya sa buong mundo sa buong taon
+
+446
+00:20:36,550 --> 00:20:38,810
+at nanatili sa iba't ibang luxury hotel.
+
+447
+00:20:39,110 --> 00:20:40,680
+Sa pagkakataong ito ay pupunta siya sa Shanghai
+
+448
+00:20:40,680 --> 00:20:42,340
+at pinipili ang aming Purong Hotel.
+
+449
+00:20:42,460 --> 00:20:43,650
+Mataas ang expectations niya
+
+450
+00:20:43,650 --> 00:20:44,960
+para sa pamamalagi na ito.
+
+451
+00:20:44,990 --> 00:20:46,950
+Ang mga detalye ay ang iyong matibay na suit.
+
+452
+00:20:46,970 --> 00:20:48,300
+Iiwan ko ito sa iyo.
+
+453
+00:20:49,120 --> 00:20:50,280
+Naiintindihan ko, Mr. Ji.
+
+454
+00:20:49,290 --> 00:20:55,720
+[Receptionist]
+
+455
+00:20:50,300 --> 00:20:50,860
+Okay.
+
+456
+00:20:54,790 --> 00:20:56,310
+Ikaw lang ang nandito ngayon?
+
+457
+00:20:56,310 --> 00:20:57,570
+Night shift ako.
+
+458
+00:20:58,000 --> 00:20:58,680
+Maghanap ng isang tao
+
+459
+00:20:58,680 --> 00:21:00,740
+para masakop ang iyong shift at makapagpahinga.
+
+460
+00:21:00,810 --> 00:21:02,170
+Hindi kita gusto
+
+461
+00:21:02,310 --> 00:21:03,510
+para magmukhang kulang sa tulog bukas
+
+462
+00:21:03,510 --> 00:21:04,710
+kapag tumatanggap ng mga VIP.
+
+463
+00:21:05,030 --> 00:21:05,670
+Okay.
+
+464
+00:21:05,880 --> 00:21:06,350
+Okay.
+
+465
+00:21:07,090 --> 00:21:08,500
+[Receptionist]
+
+466
+00:21:13,230 --> 00:21:13,880
+Mr. Ji,
+
+467
+00:21:14,310 --> 00:21:15,160
+wag kang mag alala.
+
+468
+00:21:15,270 --> 00:21:17,480
+Bukas, ang executive floor
+ay tiyak na
+
+469
+00:21:17,480 --> 00:21:19,030
+gamitin ang aming buong sigasig,
+
+470
+00:21:19,030 --> 00:21:19,910
+malampasan ang lahat ng paghihirap,
+
+471
+00:21:19,910 --> 00:21:21,710
+at tulungan kang manalo sa malaking kliyenteng ito.
+
+472
+00:21:24,070 --> 00:21:24,790
+Okay.
+
+473
+00:21:29,840 --> 00:21:35,730
+[Purong Hotel]
+
+474
+00:21:34,480 --> 00:21:35,510
+Hello, Mr. Ji.
+
+475
+00:21:35,510 --> 00:21:36,110
+Hello.
+
+476
+00:21:47,340 --> 00:21:48,270
+Umaga, Mr. Ji.
+
+477
+00:21:53,110 --> 00:21:54,310
+Magandang umaga, Mr. Ji.
+
+478
+00:21:55,830 --> 00:21:57,760
+Ako si Lu Zhenzhen mula sa departamento ng pagbebenta.
+
+479
+00:21:57,760 --> 00:21:58,820
+Naaalala mo ba ako?
+
+480
+00:21:59,000 --> 00:22:02,130
+Ang aking biyenan
+katatapos lang ng kanyang ika-60 na kaarawan noong nakaraang buwan.
+
+481
+00:22:02,160 --> 00:22:02,760
+Syempre.
+
+482
+00:22:03,110 --> 00:22:04,510
+Welcome sa Purong Hotel.
+
+483
+00:22:04,660 --> 00:22:06,350
+Kakatransfer ko lang sa
+ang departamento ng pagbebenta.
+
+484
+00:22:06,350 --> 00:22:08,050
+Ingatan mo ako, Mr. Ji.
+
+485
+00:22:10,070 --> 00:22:11,110
+Kumusta, Ms. Xu.
+
+486
+00:22:14,720 --> 00:22:15,410
+Mr. Ji,
+
+487
+00:22:15,440 --> 00:22:16,310
+Hindi ko hahayaan
+
+488
+00:22:16,310 --> 00:22:18,910
+anumang personal na damdamin ang nakakasagabal
+ang aking trabaho.
+
+489
+00:22:26,310 --> 00:22:27,160
+Diyos ko.
+
+490
+00:22:27,310 --> 00:22:29,350
+Ang asawa at ang maybahay
+ay nasa parehong frame.
+
+491
+00:22:29,350 --> 00:22:30,680
+Mag-aaway ba sila?
+
+492
+00:22:49,370 --> 00:22:50,290
+Marcos,
+
+493
+00:22:51,630 --> 00:22:53,290
+Natutuwa akong makita ka sa Shanghai.
+
+494
+00:22:53,290 --> 00:22:54,220
+matagal nang hindi nagkikita.
+
+495
+00:22:55,260 --> 00:22:56,460
+Hello, ako si Zhen,
+
+496
+00:22:56,480 --> 00:22:59,480
+ang sales representative
+mula sa Purong Hotel.
+
+497
+00:22:59,510 --> 00:23:01,030
+Pagkatapos ng mahabang paglalakbay,
+
+498
+00:23:01,050 --> 00:23:05,440
+mas gusto mo bang magpahinga
+o kumuha muna ng makakain?
+
+499
+00:23:05,470 --> 00:23:06,670
+Magpapahinga muna ako.
+
+500
+00:23:09,260 --> 00:23:11,020
+Maligayang pagdating, Ginoong Marcos.
+
+501
+00:23:11,040 --> 00:23:12,310
+Ihahatid na kita sa kwarto mo.
+
+502
+00:23:12,310 --> 00:23:13,310
+Sa ganitong paraan, pakiusap.
+
+503
+00:23:13,550 --> 00:23:14,220
+salamat po.
+
+504
+00:23:26,570 --> 00:23:28,170
+Maligayang pagdating.
+
+505
+00:23:28,650 --> 00:23:31,020
+Magandang umaga, Ginoong Yang.
+
+506
+00:23:31,310 --> 00:23:34,830
+Ako ang direktor ng mga silid.
+
+507
+00:23:35,240 --> 00:23:38,280
+Ang pangalan ko ay Feng Kaixin.
+
+508
+00:23:40,070 --> 00:23:41,030
+Hello, Mr. Feng.
+
+509
+00:23:41,940 --> 00:23:43,440
+Mr. Yang, napakagaling ng iyong Chinese.
+
+510
+00:23:43,440 --> 00:23:44,130
+Mahusay.
+
+511
+00:23:45,110 --> 00:23:46,510
+Mr. Yang, mangyaring pumasok.
+
+512
+00:23:57,710 --> 00:23:58,470
+pasensya na po.
+
+513
+00:24:08,790 --> 00:24:09,350
+Marcos,
+
+514
+00:24:10,270 --> 00:24:11,640
+pagkatapos ng mahabang byahe,
+
+515
+00:24:11,640 --> 00:24:12,510
+gutom ka siguro.
+
+516
+00:24:12,510 --> 00:24:14,840
+Maaari kang pumunta sa restaurant
+para sa ilang pagkain.
+
+517
+00:24:15,720 --> 00:24:17,310
+Hindi na kailangang maging kumplikado.
+
+518
+00:24:17,310 --> 00:24:18,770
+Kakagat lang ako dito.
+
+519
+00:24:19,720 --> 00:24:22,040
+May mga handa na sandwich
+sa Executive Lounge.
+
+520
+00:24:22,040 --> 00:24:23,190
+Masama sa tiyan ang malamig na pagkain.
+
+521
+00:24:23,190 --> 00:24:24,550
+Mahina ang tiyan ni Marcos.
+
+522
+00:24:24,550 --> 00:24:26,750
+Maaaring gumawa ng mainit na pagkain ang Executive Lounge.
+
+523
+00:24:27,270 --> 00:24:28,070
+Gaano katagal ito?
+
+524
+00:24:28,070 --> 00:24:28,720
+Kahit kailan.
+
+525
+00:24:28,720 --> 00:24:30,450
+Ihain kaagad ang mga pinggan.
+
+526
+00:24:54,690 --> 00:24:55,530
+Master Yue,
+
+527
+00:24:55,880 --> 00:24:56,750
+may nagbigay ba sayo
+
+528
+00:24:56,750 --> 00:24:58,000
+ang mga paghihigpit sa pagkain ng bisita?
+
+529
+00:24:58,000 --> 00:24:58,640
+Hindi.
+
+530
+00:25:25,160 --> 00:25:26,090
+Okay, salamat.
+
+531
+00:25:28,110 --> 00:25:28,960
+Ang iyong business banquet
+
+532
+00:25:28,960 --> 00:25:31,890
+ay talagang angkop
+na gaganapin sa Purong Hotel.
+
+533
+00:25:32,720 --> 00:25:35,880
+Sa tingin ko ang iyong hotel
+ay talagang medyo masarap.
+
+534
+00:25:36,160 --> 00:25:37,790
+Yung ibang kumpanya lang
+mayroon nang
+
+535
+00:25:37,790 --> 00:25:39,310
+nag-book ng restaurant nang maaga.
+
+536
+00:25:39,310 --> 00:25:41,160
+ayos lang. magkakaroon
+iba pang mga pagkakataon sa hinaharap.
+
+537
+00:25:41,160 --> 00:25:41,790
+sayang naman.
+
+538
+00:25:41,790 --> 00:25:43,920
+Magkakaroon ng mga pagkakataon anumang oras.
+
+539
+00:25:44,510 --> 00:25:45,350
+Ms. Xu.
+
+540
+00:25:47,240 --> 00:25:48,750
+Medyo sobra ang salad na ito.
+
+541
+00:25:48,750 --> 00:25:50,280
+Hahatiin ko ito para sa iyo.
+
+542
+00:25:50,550 --> 00:25:51,150
+salamat po.
+
+543
+00:25:58,350 --> 00:25:59,070
+salamat po.
+
+544
+00:25:59,480 --> 00:26:01,160
+Palitan ang itlog at mayonesa,
+
+545
+00:26:01,160 --> 00:26:02,720
+at palitan sila ng
+Japanese roasted sesame dressing
+
+546
+00:26:02,720 --> 00:26:03,610
+at dibdib ng manok.
+
+547
+00:26:03,610 --> 00:26:04,590
+Hatiin ang bahagi.
+
+548
+00:26:04,590 --> 00:26:05,160
+Gawin itong mabilis.
+
+549
+00:26:05,160 --> 00:26:05,790
+Okay.
+
+550
+00:26:09,790 --> 00:26:10,400
+salamat po.
+
+551
+00:26:19,830 --> 00:26:21,590
+Hindi ko intensyon na murahin ka.
+
+552
+00:26:21,960 --> 00:26:24,140
+Sa antas na ito, pinamamahalaan mo pa rin ang
+
+553
+00:26:24,140 --> 00:26:26,600
+kunin bilang isang forewoman
+sa executive floor?
+
+554
+00:26:34,030 --> 00:26:35,160
+Ayaw naming istorbohin ka.
+
+555
+00:26:35,160 --> 00:26:36,090
+Magpahinga ka ng mabuti.
+
+556
+00:26:53,440 --> 00:26:54,160
+Ms. Xu,
+
+557
+00:26:54,590 --> 00:26:55,650
+ang iyong paliwanag?
+
+558
+00:26:55,790 --> 00:26:56,790
+Paumanhin, Mr. Ji.
+
+559
+00:26:57,270 --> 00:26:59,800
+Ang taong dapat mo
+humingi ng tawad kay Marcos.
+
+560
+00:27:02,070 --> 00:27:03,350
+Ngunit sa aking mga dokumento...
+
+561
+00:27:03,370 --> 00:27:04,550
+Ms. Xu,
+
+562
+00:27:05,000 --> 00:27:07,550
+Paulit-ulit kong sinabi sayo kahapon
+
+563
+00:27:07,550 --> 00:27:08,920
+at binigyang-diin
+
+564
+00:27:08,920 --> 00:27:10,550
+kahalagahan ng gawaing ito.
+
+565
+00:27:10,550 --> 00:27:12,350
+Paano ka pa nakakagawa
+tulad ng isang amateur pagkakamali?
+
+566
+00:27:12,350 --> 00:27:14,610
+Ibinigay ko sa iyo ang isang mahalagang kliyente.
+
+567
+00:27:14,630 --> 00:27:16,480
+Malinaw itong nakasulat sa mga dokumento
+
+568
+00:27:16,480 --> 00:27:18,310
+na si Marcos ay allergic sa pollen
+
+569
+00:27:18,310 --> 00:27:19,750
+at mga itlog.
+
+570
+00:27:19,750 --> 00:27:21,920
+Hindi ka man lang tumingin
+tulad mahalagang impormasyon.
+
+571
+00:27:21,920 --> 00:27:23,830
+May sense ka ba
+responsibilidad para sa iyong trabaho?
+
+572
+00:27:23,830 --> 00:27:25,140
+Nagdala ka ng kahihiyan sa aming executive floor,
+
+573
+00:27:25,140 --> 00:27:25,750
+hindi,
+
+574
+00:27:25,780 --> 00:27:28,220
+ang buong Departamento ng HSKP.
+
+575
+00:27:28,350 --> 00:27:30,310
+Mr. Feng, ang mga dokumento
+binigyan mo ako ng malinaw...
+
+576
+00:27:30,310 --> 00:27:31,630
+Nagpapaliwanag ka pa ha?
+
+577
+00:27:31,630 --> 00:27:32,290
+Tingnan mo,
+
+578
+00:27:32,490 --> 00:27:33,720
+sinusubukan pa ring ipasa sa akin ang pera.
+
+579
+00:27:33,720 --> 00:27:34,850
+Kung hindi dahil sa akin
+
+580
+00:27:34,870 --> 00:27:37,180
+at si Mr. Ji ang namamahala
+on the spot ngayon,
+
+581
+00:27:37,180 --> 00:27:40,380
+sino ang nakakaalam kung gaano kalaki ang pagkawala ng hotel
+magdusa sana?
+
+582
+00:27:40,410 --> 00:27:41,760
+Tingnan mo ang iyong working attitude
+
+583
+00:27:41,760 --> 00:27:42,520
+at antas.
+
+584
+00:27:42,550 --> 00:27:45,680
+Deserve mo pa bang maging
+isang executive floor forewoman?
+
+585
+00:27:46,190 --> 00:27:47,080
+Ms. Xu,
+
+586
+00:27:47,560 --> 00:27:48,780
+kaya mo bang hawakan ito ng maayos?
+
+587
+00:27:48,780 --> 00:27:49,430
+kaya ko.
+
+588
+00:27:49,970 --> 00:27:51,570
+Pagtitiwalaan kita ng isang beses.
+
+589
+00:27:55,720 --> 00:27:56,940
+Hayaan mo na lang?
+
+590
+00:28:04,070 --> 00:28:04,790
+Ms. Xu,
+
+591
+00:28:04,790 --> 00:28:06,670
+Gusto kang makita ni Mr. Ji sa kanyang opisina.
+
+592
+00:28:06,670 --> 00:28:07,530
+Patungo lang ako doon.
+
+593
+00:28:07,280 --> 00:28:08,990
+[Receptionist]
+
+594
+00:28:11,480 --> 00:28:11,940
+Pumasok ka.
+
+595
+00:28:13,530 --> 00:28:14,340
+Mr. Ji,
+
+596
+00:28:15,680 --> 00:28:17,510
+Nabasa ko na ang dokumentong ito nang mahigit sampung beses,
+
+597
+00:28:17,510 --> 00:28:18,640
+at kabisado ko na.
+
+598
+00:28:18,640 --> 00:28:19,720
+Wala talagang binabanggit
+
+599
+00:28:19,720 --> 00:28:21,310
+Mga allergy sa pagkain ni Marcos.
+
+600
+00:28:24,910 --> 00:28:25,670
+Dito.
+
+601
+00:28:29,580 --> 00:28:31,380
+[Allergy: allergic sa pollen at itlog.]
+
+602
+00:28:34,590 --> 00:28:35,660
+[Propesyonal na Background]
+
+603
+00:28:35,110 --> 00:28:35,720
+Maghintay,
+
+604
+00:28:36,070 --> 00:28:37,660
+hindi ito ang aking file.
+
+605
+00:28:37,790 --> 00:28:38,510
+Na-highlight ko ang aking kopya ng mga materyales
+
+606
+00:28:38,510 --> 00:28:40,310
+na may marker.
+
+607
+00:28:44,690 --> 00:28:48,010
+[Kalagayan ng kalusugan] [Mga alalahanin sa kalusugan ng isip]
+
+608
+00:28:48,830 --> 00:28:49,480
+Tingnan mo.
+
+609
+00:28:50,030 --> 00:28:51,480
+Buti na lang may litrato ako.
+
+610
+00:28:51,480 --> 00:28:53,220
+Nilagyan ito ng highlighter.
+
+611
+00:28:52,620 --> 00:28:53,740
+[Status ng kalusugan]
+
+612
+00:28:54,680 --> 00:28:55,400
+Hindi masama.
+
+613
+00:28:55,510 --> 00:28:56,710
+Mabilis kang nag-react.
+
+614
+00:28:58,110 --> 00:29:00,070
+Alam kong hindi mo ito kasalanan.
+
+615
+00:29:00,640 --> 00:29:01,570
+Pinatawag kita dito
+
+616
+00:29:01,750 --> 00:29:03,110
+para bigyan ka ng bago.
+
+617
+00:29:03,310 --> 00:29:04,780
+Tapos ngayon lang...
+
+618
+00:29:05,030 --> 00:29:06,410
+Sabik kang patunayan ang iyong sarili,
+
+619
+00:29:06,410 --> 00:29:08,410
+at gusto kong makita kung ano ang maaari mong gawin.
+
+620
+00:29:08,550 --> 00:29:09,470
+Mr. Ji.
+
+621
+00:29:09,510 --> 00:29:09,980
+Sige.
+
+622
+00:29:09,980 --> 00:29:11,640
+Iyon na ang katapusan ng usaping ito.
+
+623
+00:29:12,240 --> 00:29:14,830
+Mas ligtas kung gagamitin mo ang aking bersyon.
+
+624
+00:29:15,830 --> 00:29:17,030
+Para sa lahat ng trabaho sa pagtanggap sa hinaharap,
+
+625
+00:29:17,030 --> 00:29:18,490
+direkta kang magsumbong sa akin.
+
+626
+00:29:18,550 --> 00:29:19,320
+Naiintindihan?
+
+627
+00:29:21,350 --> 00:29:22,160
+Naintindihan.
+
+628
+00:29:23,350 --> 00:29:24,350
+Salamat, Mr. Ji.
+
+629
+00:29:46,260 --> 00:29:47,540
+Ginoong Marcos,
+
+630
+00:29:47,590 --> 00:29:48,960
+Alam ko na Libo Group
+
+631
+00:29:48,960 --> 00:29:51,540
+ay kilala sa buong mundo para sa pangmatagalan nito.
+
+632
+00:29:51,750 --> 00:29:54,350
+Ang pagkuha ng Taisheng Metropolis
+pitong taon na ang nakalipas
+
+633
+00:29:54,350 --> 00:29:56,240
+ay walang kapantay sa
+
+634
+00:29:56,240 --> 00:29:58,100
+pandaigdigang mga kumpanya ng konstruksiyon.
+
+635
+00:29:58,160 --> 00:30:00,370
+Nakipagtulungan ba ang iyong hotel sa Libo?
+
+636
+00:30:00,550 --> 00:30:01,190
+Syempre.
+
+637
+00:30:01,340 --> 00:30:03,160
+Nag-host ang aming hotel ng taunang pagpupulong
+
+638
+00:30:03,160 --> 00:30:03,960
+ng Libo Group
+
+639
+00:30:03,960 --> 00:30:06,640
+sangay sa Shanghai, China noong nakaraang taon.
+
+640
+00:30:06,640 --> 00:30:08,790
+Nag-uusap din kami
+
+641
+00:30:08,790 --> 00:30:10,750
+kasama ang kasosyo ng Libo Group,
+Industriya ng Shenjiang,
+
+642
+00:30:10,750 --> 00:30:12,010
+sa ilang proyekto.
+
+643
+00:30:12,400 --> 00:30:13,180
+Paumanhin,
+
+644
+00:30:14,830 --> 00:30:15,480
+late na ako.
+
+645
+00:30:15,590 --> 00:30:17,050
+Sorry kung pinaghintay kita.
+
+646
+00:30:17,750 --> 00:30:18,360
+paano ito?
+
+647
+00:30:19,240 --> 00:30:20,570
+Nasanay ka na ba sa pagkain?
+
+648
+00:30:20,620 --> 00:30:21,750
+Ang karne na ito ay hindi masama.
+
+649
+00:30:21,960 --> 00:30:23,140
+Lambing lalo
+pag kagat ko dito.
+
+650
+00:30:23,140 --> 00:30:24,070
+gusto ko talaga.
+
+651
+00:30:25,820 --> 00:30:27,980
+Ito ang signature dish ng hotel namin.
+
+652
+00:30:28,540 --> 00:30:31,270
+Napakasarap ng veal shank.
+
+653
+00:30:31,480 --> 00:30:34,030
+Maingat itong inihanda para sa iyo
+
+654
+00:30:34,030 --> 00:30:35,630
+ng isang chef sa aming kusina na dalubhasa
+
+655
+00:30:35,630 --> 00:30:36,930
+sa Mediterranean cuisine.
+
+656
+00:30:36,930 --> 00:30:37,890
+Napaka thoughtful.
+
+657
+00:30:40,350 --> 00:30:41,280
+Nilagang hipon.
+
+658
+00:30:42,260 --> 00:30:42,980
+Subukan ito.
+
+659
+00:30:49,640 --> 00:30:51,110
+Ang lasa ay medyo mayaman.
+
+660
+00:30:52,880 --> 00:30:54,000
+Paano ito ginawa?
+
+661
+00:30:54,480 --> 00:30:55,780
+Ito
+
+662
+00:30:57,170 --> 00:30:58,100
+ay ginawa ng aming...
+
+663
+00:30:58,760 --> 00:31:00,040
+Ang lutuing ito
+
+664
+00:31:00,070 --> 00:31:01,670
+higit sa lahat ay nakasalalay sa sarsa.
+
+665
+00:31:01,960 --> 00:31:03,640
+Sa karamihan ng mga lugar, ang sarsa
+
+666
+00:31:03,640 --> 00:31:06,380
+ay ginawa sa pamamagitan ng paghahalo ng ketchup na binili sa tindahan.
+
+667
+00:31:06,410 --> 00:31:08,480
+Ngunit sa aming kusina, ang sarsa ay ginawa
+
+668
+00:31:08,480 --> 00:31:10,310
+sa pamamagitan ng simmering wild mushroom broth together
+
+669
+00:31:10,310 --> 00:31:12,590
+may sariwang kamatis,
+
+670
+00:31:12,590 --> 00:31:14,730
+kaya ito ay may napaka-pana-panahong lasa.
+
+671
+00:31:14,750 --> 00:31:17,600
+Kaya mo ba inayos
+
+672
+00:31:18,910 --> 00:31:20,340
+mga pagkaing ito?
+
+673
+00:31:20,390 --> 00:31:23,550
+Nalaman ko na mas gusto mo ang Chinese cuisine,
+
+674
+00:31:23,770 --> 00:31:25,960
+at gusto mo rin
+iba't ibang uri ng seafood.
+
+675
+00:31:25,960 --> 00:31:27,350
+Kaya para sa menu ngayong gabi,
+
+676
+00:31:27,350 --> 00:31:30,400
+karamihan dito ay Chinese-style na seafood.
+
+677
+00:31:34,670 --> 00:31:35,500
+salamat po.
+
+678
+00:31:35,800 --> 00:31:36,990
+Natutuwa akong nagustuhan mo ito.
+
+679
+00:31:37,550 --> 00:31:38,380
+mahal ko ito.
+
+680
+00:31:39,410 --> 00:31:40,410
+At salamat din.
+
+681
+00:31:40,570 --> 00:31:42,030
+Pareho kayong pamilya ko.
+
+682
+00:31:42,240 --> 00:31:44,160
+Kilalang-kilala mo ako.
+
+683
+00:31:44,550 --> 00:31:45,350
+Tama ba, Kenny?
+
+684
+00:31:46,110 --> 00:31:46,790
+Syempre.
+
+685
+00:31:47,430 --> 00:31:49,190
+Ang service staff na iyong sinanay
+
+686
+00:31:49,210 --> 00:31:51,350
+hindi kailanman binigo ako.
+
+687
+00:31:51,640 --> 00:31:53,240
+Niloloko mo kami.
+
+688
+00:31:53,260 --> 00:31:53,830
+Huwag maging.
+
+689
+00:31:53,830 --> 00:31:54,550
+Halika.
+
+690
+00:31:54,650 --> 00:31:55,590
+Cheers.
+
+691
+00:31:55,620 --> 00:31:57,550
+Ang galing talaga.
+
+692
+00:31:58,050 --> 00:31:59,250
+Basta gusto mo.
+
+693
+00:32:10,940 --> 00:32:14,410
+[Resibo]
+
+694
+00:32:14,410 --> 00:32:16,030
+[Shang PIN JIN HUO JI LU BIAO]
+
+695
+00:32:18,470 --> 00:32:19,070
+Sino ito?
+
+696
+00:32:19,680 --> 00:32:20,200
+Xue Rui!
+
+697
+00:32:20,990 --> 00:32:21,530
+Xue...
+
+698
+00:32:21,970 --> 00:32:22,830
+Mr. Xue?
+
+699
+00:32:22,210 --> 00:32:24,120
+[Shang PIN JIN HUO JI LU BIAO] [Resibo]
+
+700
+00:32:22,960 --> 00:32:24,070
+Sandali lang!
+
+701
+00:32:27,910 --> 00:32:28,400
+Darating.
+
+702
+00:32:29,070 --> 00:32:29,640
+Darating.
+
+703
+00:32:32,090 --> 00:32:32,860
+Mr. Chen.
+
+704
+00:32:32,960 --> 00:32:34,110
+Bakit naka-lock ang pinto mo?
+
+705
+00:32:34,110 --> 00:32:34,960
+Anong tinatago mo?
+
+706
+00:32:34,960 --> 00:32:36,750
+Mr. Xue, bakit ka nandito?
+
+707
+00:32:36,990 --> 00:32:38,610
+Medyo magulo.
+
+708
+00:32:38,800 --> 00:32:39,670
+Ito ay
+
+709
+00:32:39,830 --> 00:32:41,120
+sira
+
+710
+00:32:41,480 --> 00:32:42,240
+iyong suit.
+
+711
+00:32:42,240 --> 00:32:44,240
+Tinatrato mo ba ako na parang estranghero?
+
+712
+00:32:44,830 --> 00:32:45,960
+Ito ay isang uniporme sa trabaho.
+
+713
+00:32:46,300 --> 00:32:47,160
+nakalimutan mo na ba
+
+714
+00:32:47,200 --> 00:32:48,800
+Dati kami pumupunta dito
+sa katapusan ng bawat buwan
+
+715
+00:32:48,800 --> 00:32:50,520
+upang ayusin ang mga account.
+
+716
+00:32:50,920 --> 00:32:51,510
+Tama.
+
+717
+00:32:51,870 --> 00:32:55,000
+Ikaw ang namamahala sa
+ang mga account sa pagbili noon.
+
+718
+00:32:57,030 --> 00:32:58,160
+Napakaganda ng lugar na ito.
+
+719
+00:32:58,590 --> 00:32:59,970
+Ito ang kamalig ng Purong Hotel.
+
+720
+00:32:59,970 --> 00:33:01,160
+Ito ay isang treasured place.
+
+721
+00:33:01,160 --> 00:33:02,760
+Gusto kong manirahan dito araw-araw.
+
+722
+00:33:03,590 --> 00:33:04,450
+Paano ito nangyayari?
+
+723
+00:33:04,720 --> 00:33:05,450
+Busy ka ba?
+
+724
+00:33:05,660 --> 00:33:06,640
+Okay naman ang negosyo.
+
+725
+00:33:06,640 --> 00:33:07,790
+Mayroon kaming ilang mga mesa para sa tanghalian.
+
+726
+00:33:07,790 --> 00:33:08,380
+Ngunit,
+
+727
+00:33:08,480 --> 00:33:10,010
+lahat sila ay regular na customer.
+
+728
+00:33:10,010 --> 00:33:10,910
+Walang bago.
+
+729
+00:33:12,790 --> 00:33:15,120
+Magkano ang kinikita mo sa tanghalian?
+
+730
+00:33:21,590 --> 00:33:22,160
+Kuya Chen,
+
+731
+00:33:22,160 --> 00:33:24,550
+maaari mo bang hayaan akong makita ang iyong mga purchase order?
+
+732
+00:33:25,720 --> 00:33:27,160
+Natatakot akong hindi.
+
+733
+00:33:27,780 --> 00:33:28,910
+Wala dito si Chef Jia.
+
+734
+00:33:29,310 --> 00:33:30,350
+Hindi ako makatawag.
+
+735
+00:33:30,350 --> 00:33:31,400
+Halika na.
+
+736
+00:33:31,720 --> 00:33:34,070
+Ikaw ang manager
+ng departamento ng pagbili.
+
+737
+00:33:34,070 --> 00:33:35,510
+Hindi mo man lang magawa ang tawag na ito?
+
+738
+00:33:35,510 --> 00:33:37,070
+Anong tagapamahala ng departamento ng pagbili?
+
+739
+00:33:37,070 --> 00:33:38,880
+Nag-grocery lang ako.
+
+740
+00:33:41,940 --> 00:33:42,400
+Okay.
+
+741
+00:33:42,400 --> 00:33:43,500
+Hindi ko gagawing mahirap para sa iyo.
+
+742
+00:33:43,500 --> 00:33:44,240
+Tingnan mo,
+
+743
+00:33:44,400 --> 00:33:45,590
+kapag bumalik si Chef Jia,
+
+744
+00:33:45,590 --> 00:33:47,880
+hilingin sa kanya na ihanda ang purchase order
+
+745
+00:33:47,880 --> 00:33:49,280
+at ibigay ito sa akin ngayon.
+
+746
+00:33:49,650 --> 00:33:50,070
+Hindi.
+
+747
+00:33:50,090 --> 00:33:51,020
+Hindi ito gagawin.
+
+748
+00:33:52,310 --> 00:33:52,880
+Kapatid,
+
+749
+00:33:53,450 --> 00:33:54,830
+hayaan mo akong maging tapat sa iyo.
+
+750
+00:33:54,830 --> 00:33:56,340
+Ang bagong amo
+
+751
+00:33:56,640 --> 00:33:59,750
+ay nakatingin sa
+ang mga bill ng Chinese restaurant kamakailan.
+
+752
+00:33:59,750 --> 00:34:01,280
+Minamadali talaga nila ako.
+
+753
+00:34:01,490 --> 00:34:02,620
+Bigyan mo ako ng pabor.
+
+754
+00:34:02,640 --> 00:34:03,500
+Pagkabalik ni Chef Jia,
+
+755
+00:34:03,500 --> 00:34:05,560
+ihanda niya ito at ibigay sa akin
+
+756
+00:34:05,560 --> 00:34:06,760
+para makapag-ulat ako pabalik
+
+757
+00:34:08,080 --> 00:34:08,969
+at lagpasan ito.
+
+758
+00:34:08,969 --> 00:34:09,739
+nakikita ko.
+
+759
+00:34:11,630 --> 00:34:12,150
+Sige.
+
+760
+00:34:12,150 --> 00:34:13,480
+Talagang sasabihin ko sa kanya.
+
+761
+00:34:13,480 --> 00:34:14,630
+Okay, salamat.
+
+762
+00:34:14,630 --> 00:34:15,230
+Hahayaan kitang bumalik sa trabaho.
+
+763
+00:34:15,230 --> 00:34:16,030
+Ito ay wala.
+
+764
+00:34:16,030 --> 00:34:16,949
+Ang tasa.
+
+765
+00:34:17,190 --> 00:34:17,790
+salamat po.
+
+766
+00:34:18,110 --> 00:34:19,040
+Okay, ingat ka.
+
+767
+00:34:19,250 --> 00:34:19,810
+Bye.
+
+768
+00:34:19,840 --> 00:34:20,590
+Bye.
+
+769
+00:34:43,040 --> 00:34:43,780
+Paano ito napunta?
+
+770
+00:34:45,699 --> 00:34:46,630
+Ganito na ako katanda,
+
+771
+00:34:46,630 --> 00:34:47,710
+at kailangan ko pa
+makipaglaro sa iyo ng spy games.
+
+772
+00:34:47,710 --> 00:34:49,510
+Buti na lang malakas ang nerbiyos ko.
+
+773
+00:34:50,900 --> 00:34:52,900
+Sinabi ko lahat ng sinabi mo sa akin.
+
+774
+00:34:53,070 --> 00:34:54,199
+Ngunit ang iyong layunin
+
+775
+00:34:54,400 --> 00:34:56,510
+tiyak na hindi
+Puro purchase order lang diba?
+
+776
+00:34:56,510 --> 00:34:57,710
+Kilala mo ako, Rui.
+
+777
+00:34:59,200 --> 00:35:01,600
+Hindi ka pa ba pupunta
+sabihin mo sa akin ang iyong plano?
+
+778
+00:35:07,070 --> 00:35:07,480
+Dito.
+
+779
+00:35:11,100 --> 00:35:14,570
+[Pagpaparehistro ng Tauhan
+Form ng Purong Hotel]
+
+780
+00:35:12,360 --> 00:35:13,280
+Jia Shikun
+
+781
+00:35:13,740 --> 00:35:15,940
+sinasabing isang alagad
+ng Huaiyang cuisine master na si Gu Shanghong.
+
+782
+00:35:14,600 --> 00:35:15,780
+[Pangalan: Jia Shikun]
+
+783
+00:35:16,440 --> 00:35:18,230
+Umaasa sa kanyang signature dish—
+inasnan na sabaw ng tadyang ng baboy na may mga sanga ng kawayan—
+
+784
+00:35:18,230 --> 00:35:20,000
+sinasabing isang nangungunang specialty sa Shanghai,
+
+785
+00:35:20,000 --> 00:35:20,800
+palihim niyang sinasamantala ang
+
+786
+00:35:20,800 --> 00:35:23,730
+ang hotel sa loob ng maraming taon,
+at walang nangahas na hawakan siya.
+
+787
+00:35:24,320 --> 00:35:26,980
+Upang malutas ang problema
+ng aming Chinese restaurant,
+
+788
+00:35:27,070 --> 00:35:28,330
+siya ay dapat na maalis.
+
+789
+00:35:29,670 --> 00:35:31,320
+Alam ko ang problema ni Jia Shikun.
+
+790
+00:35:31,320 --> 00:35:32,520
+Pero kung hinawakan mo siya,
+
+791
+00:35:32,590 --> 00:35:34,230
+hindi papayag ang board.
+
+792
+00:35:34,480 --> 00:35:36,440
+Kaya gusto ko siyang umalis mag-isa.
+
+793
+00:35:38,790 --> 00:35:41,050
+Paano ka nakakasigurado
+aalis siya mag-isa?
+
+794
+00:35:41,230 --> 00:35:43,070
+Mainit ang ulo niya
+
+795
+00:35:43,190 --> 00:35:44,480
+at pinakamahalaga sa kanyang reputasyon.
+
+796
+00:35:44,480 --> 00:35:46,960
+Kahit si Wei Siyuan
+lumihis siya nang makita siya.
+
+797
+00:35:46,960 --> 00:35:48,510
+Isang bagong hinirang na manager,
+
+798
+00:35:48,760 --> 00:35:51,190
+walang ingat na sinusubukang gamitin siya bilang isang halimbawa
+
+799
+00:35:51,190 --> 00:35:53,070
+at pinapaabot siya
+ang mga account book...
+
+800
+00:35:53,070 --> 00:35:55,150
+Sa tingin mo magagalit siya
+
+801
+00:35:55,150 --> 00:35:57,150
+at subukang igiit ang pangingibabaw sa akin?
+
+802
+00:35:57,920 --> 00:35:59,510
+Iyon lang ang hula mo.
+
+803
+00:35:59,710 --> 00:36:01,980
+Tanong ko sa isang headhunter na kilala ko.
+
+804
+00:36:02,320 --> 00:36:04,630
+Medyo marami ang mga hotel
+sinusubukang i-recruit siya ngayong buwan,
+
+805
+00:36:04,630 --> 00:36:06,880
+kasama ang Kuanli Hotel.
+
+806
+00:36:09,360 --> 00:36:11,920
+Binibigyan ko lang siya ng konting push.
+
+807
+00:36:17,870 --> 00:36:19,190
+Bilisan mo yan!
+
+808
+00:36:20,070 --> 00:36:20,670
+Chef!
+
+809
+00:36:20,670 --> 00:36:21,870
+Sa wakas nandito ka na.
+
+810
+00:36:22,030 --> 00:36:24,160
+Hinanap kita kung saan-saan.
+
+811
+00:36:30,360 --> 00:36:31,290
+Pinutol mo ito nang malaki?
+
+812
+00:36:31,320 --> 00:36:32,590
+Gusto mong mabulunan ang isang tao?
+
+813
+00:36:32,590 --> 00:36:33,150
+Recut ito!
+
+814
+00:36:36,590 --> 00:36:37,590
+Ano ito? Magsalita.
+
+815
+00:36:37,640 --> 00:36:38,320
+Magsalita.
+
+816
+00:36:39,190 --> 00:36:41,190
+Ang mga nakatataas ay nag-iimbestiga.
+
+817
+00:36:41,760 --> 00:36:42,690
+Ang mga nakatataas?
+
+818
+00:36:42,880 --> 00:36:43,510
+Oo.
+
+819
+00:36:46,630 --> 00:36:47,850
+Siya ba ang lalaking may apelyidong Ji?
+
+820
+00:36:47,850 --> 00:36:48,670
+Oo.
+
+821
+00:36:50,960 --> 00:36:52,300
+Ang bagong boss ay nanunungkulan
+
+822
+00:36:52,300 --> 00:36:54,500
+at itinapon ang kanyang bigat sa paligid ng aking karerahan?
+
+823
+00:36:55,400 --> 00:36:57,590
+Pinipilit nila tayo
+upang ibigay ang listahan ngayon.
+
+824
+00:36:57,590 --> 00:36:59,510
+Bakit hindi na lang natin sila lokohin ng konti
+
+825
+00:36:59,510 --> 00:37:00,240
+at hayaan mo?
+
+826
+00:37:00,920 --> 00:37:01,980
+Kung gusto mong maglaro,
+
+827
+00:37:02,110 --> 00:37:03,190
+makipaglaro ka sa kanya.
+
+828
+00:37:03,350 --> 00:37:04,340
+hindi ko gagawin.
+
+829
+00:37:05,520 --> 00:37:06,920
+Chef, wag kang ganyan.
+
+830
+00:37:07,510 --> 00:37:08,840
+Huwag mo akong kausapin, aalis ako.
+
+831
+00:37:09,030 --> 00:37:09,480
+Makinig ka sa akin.
+
+832
+00:37:09,480 --> 00:37:11,550
+Pigilan mo muna ang bagay na ito.
+
+833
+00:37:11,550 --> 00:37:13,230
+Lagi tayong may daan palabas mamaya.
+
+834
+00:37:13,230 --> 00:37:14,020
+Kunin ano?
+
+835
+00:37:14,150 --> 00:37:14,840
+Anong gagawin natin?
+
+836
+00:37:14,840 --> 00:37:15,590
+-Ano ang dapat kong sabihin sa kanya?
+- Huminahon ka.
+
+837
+00:37:15,590 --> 00:37:16,070
+kakausapin ko siya.
+
+838
+00:37:16,070 --> 00:37:16,630
+sasabihin ko sa kanya.
+
+839
+00:37:16,630 --> 00:37:17,440
+Huwag magmadaling umalis.
+
+840
+00:37:17,440 --> 00:37:17,960
+Aba..
+
+841
+00:37:17,960 --> 00:37:18,820
+Tama, basta...
+
+842
+00:37:20,580 --> 00:37:21,780
+Mabuti para sa iyo.
+
+843
+00:37:22,070 --> 00:37:23,380
+Napakarami mong ginawa sa iyong sarili,
+
+844
+00:37:23,380 --> 00:37:24,960
+at walang sinabi sa akin.
+
+845
+00:37:24,960 --> 00:37:25,760
+Kung sinabi ko sa iyo,
+
+846
+00:37:25,760 --> 00:37:27,190
+Rui, magkakaroon ka pa ba ng
+
+847
+00:37:27,190 --> 00:37:30,590
+tulad ng mahusay na mga kasanayan sa pag-arte
+sa purchasing department?
+
+848
+00:37:33,120 --> 00:37:36,480
+Mayroon ka bang angkop na chef?
+
+849
+00:37:38,250 --> 00:37:40,310
+Mayroon akong isang tao na gusto kong subukang kunin.
+
+850
+00:37:48,110 --> 00:37:49,440
+Sa piging ni Duan Aoxiang,
+
+851
+00:37:48,360 --> 00:37:50,820
+[Pagpaparehistro ng Tauhan
+Form ng Purong Hotel]
+
+852
+00:37:49,440 --> 00:37:50,640
+Nakita ko ang kanyang pagkamalikhain.
+
+853
+00:37:50,760 --> 00:37:51,750
+Naka-graduate siya
+mula sa Le Cordon Bleu sa France.
+
+854
+00:37:50,840 --> 00:37:52,430
+[Pangalan: Li Qiaoqi]
+
+855
+00:37:51,780 --> 00:37:53,070
+May mga ideya siya at kaya niya.
+
+856
+00:37:53,070 --> 00:37:56,530
+At narinig ko na mayroon siyang partikular
+magandang relasyon sa iyo.
+
+857
+00:38:00,440 --> 00:38:01,070
+Oo.
+
+858
+00:38:01,070 --> 00:38:02,320
+Kilalang-kilala ko siya.
+
+859
+00:38:02,550 --> 00:38:03,880
+Siya ay prangka
+
+860
+00:38:03,920 --> 00:38:05,030
+at isang gumagawa.
+
+861
+00:38:05,760 --> 00:38:07,070
+Siguradong mapagkakatiwalaan siya.
+
+862
+00:38:07,070 --> 00:38:08,380
+Sa sandaling umalis si Jia Shikun,
+
+863
+00:38:08,380 --> 00:38:10,150
+tiyak na gagawin niya
+dalhin mo ang kanyang mga tauhan sa kusina.
+
+864
+00:38:10,150 --> 00:38:11,710
+As long as we give her more time
+
+865
+00:38:11,710 --> 00:38:12,550
+at magtiwala sa kanya,
+
+866
+00:38:12,710 --> 00:38:14,570
+dahan-dahan siyang makakabuo ng sarili niyang team.
+
+867
+00:38:14,710 --> 00:38:15,480
+Kung ganoon,
+
+868
+00:38:15,480 --> 00:38:16,210
+kami...
+
+869
+00:38:17,000 --> 00:38:17,760
+Pumasok ka.
+
+870
+00:38:18,920 --> 00:38:20,320
+Mr. Ji, si Direk Lu ay...
+
+871
+00:38:20,840 --> 00:38:21,240
+Mr. Ji,
+
+872
+00:38:23,070 --> 00:38:24,350
+sa 6:30 ngayong gabi,
+
+873
+00:38:24,550 --> 00:38:26,030
+business banquet ni G. Marcos
+
+874
+00:38:26,030 --> 00:38:28,000
+ay papalitan ng
+ang maliit na banquet hall sa aming hotel.
+
+875
+00:38:26,880 --> 00:38:28,350
+[Application sa Banquet Hall]
+
+876
+00:38:28,000 --> 00:38:28,670
+Isang kabuuang limang mesa.
+
+877
+00:38:28,670 --> 00:38:29,530
+Pakipirmahan ito.
+
+878
+00:38:30,960 --> 00:38:31,440
+Sigurado ka ba?
+
+879
+00:38:31,440 --> 00:38:32,000
+sigurado ako.
+
+880
+00:38:32,260 --> 00:38:33,630
+Inabot ako ng isang buong araw
+
+881
+00:38:33,630 --> 00:38:35,550
+para makumbinsi sa wakas si G. Marcos
+
+882
+00:38:35,550 --> 00:38:37,150
+para ilipat ang piging sa aming hotel.
+
+883
+00:38:35,830 --> 00:38:37,200
+[Application sa Banquet Hall]
+[Pag-apruba ng General Manager: Naaprubahan]
+
+884
+00:38:37,150 --> 00:38:38,960
+Maraming big shots ngayong gabi.
+
+885
+00:38:38,960 --> 00:38:40,190
+Mga nangungunang executive mula sa
+ang konstruksyon, pagmimina,
+
+886
+00:38:39,840 --> 00:38:40,740
+[Departamento ng kahilingan sa imbitasyon sa piging:
+Sales Department]
+[General Manager: Ji Feng]
+
+887
+00:38:40,190 --> 00:38:42,590
+at ang mga industriya ng real estate ay naririto.
+
+888
+00:38:42,590 --> 00:38:43,760
+Ito ay isang napakabihirang
+
+889
+00:38:43,760 --> 00:38:44,920
+pagkakataong pang-promosyon para sa atin.
+
+890
+00:38:44,920 --> 00:38:46,760
+Ikaw ang namamahala sa piging na ito.
+
+891
+00:38:46,760 --> 00:38:48,260
+Isumbong mo sa akin kung may dumating.
+
+892
+00:38:48,260 --> 00:38:48,900
+Rui.
+
+893
+00:38:52,550 --> 00:38:54,360
+Pinili ni Direk Lu ang magandang oras na darating.
+
+894
+00:38:54,360 --> 00:38:56,280
+Maaaring hindi umalis si Jia Shikun ngayon.
+
+895
+00:38:56,280 --> 00:38:58,300
+Sa napakagandang pagkakataong i-set up ako,
+
+896
+00:38:58,320 --> 00:39:00,080
+ilang tao sa tingin mo
+naiwan sa kusina?
+
+897
+00:39:00,080 --> 00:39:00,830
+Ano ang dapat nating gawin kung gayon?
+
+898
+00:39:00,830 --> 00:39:02,150
+Tanungin ba natin ang HR?
+
+899
+00:39:02,190 --> 00:39:04,110
+Diba sabi mo dapat tayo
+hayaan mong subukan si Li Qiaoqi?
+
+900
+00:39:04,110 --> 00:39:05,150
+Ngayon na ang pagkakataon.
+
+901
+00:39:05,150 --> 00:39:07,350
+Tingnan natin kung maaagaw niya
+ang pagkakataon.
+
+902
+00:39:07,350 --> 00:39:08,340
+Kaya niya.
+
+903
+00:39:07,690 --> 00:39:10,740
+[Menu ng hapunan] [Malamig na pagkain] [Mainit na pagkain]
+[Staple food][Soup]
+
+904
+00:39:13,290 --> 00:39:15,390
+Gaano katagal
+magluto ng five-table dinner?
+
+905
+00:39:15,390 --> 00:39:16,790
+Ito ay hindi isang bagay ng oras.
+
+906
+00:39:17,190 --> 00:39:18,070
+Nakita mo rin.
+
+907
+00:39:18,070 --> 00:39:20,310
+Si Chef Jia ay kumuha ng higit sa
+kalahati ng mga tauhan sa kusina ang layo.
+
+908
+00:39:20,310 --> 00:39:21,240
+Kailangan ko ng manpower.
+
+909
+00:39:21,850 --> 00:39:22,760
+Ilan ang kailangan mo?
+
+910
+00:39:22,760 --> 00:39:23,780
+Gusto ko ng tatlong Sous Chef,
+
+911
+00:39:23,780 --> 00:39:24,840
+at isang dessert chef.
+
+912
+00:39:25,460 --> 00:39:26,600
+Hindi ko kayang ibigay ang tatlo.
+
+913
+00:39:26,600 --> 00:39:27,610
+Bibigyan muna kita,
+
+914
+00:39:27,610 --> 00:39:30,760
+at ililipat ko ang natitira
+sa iyo mula sa ibang mga departamento.
+
+915
+00:39:30,760 --> 00:39:31,280
+Okay.
+
+916
+00:39:31,670 --> 00:39:33,220
+G. Ji, G. Xue.
+
+917
+00:39:33,480 --> 00:39:34,060
+Ano ito?
+
+918
+00:39:34,060 --> 00:39:36,550
+pumunta lang ako para tignan
+Manager Chen mula sa pagkuha
+
+919
+00:39:36,550 --> 00:39:38,550
+para pirmahan niya ang mga bisita
+listahan ng mga paghihigpit sa pagkain.
+
+920
+00:39:38,550 --> 00:39:41,030
+Nakita ko siya
+ni-lock ang pinto at umalis,
+
+921
+00:39:41,030 --> 00:39:42,340
+kaya pumunta ako para itanong kung anong nangyari.
+
